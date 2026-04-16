@@ -1,0 +1,2738 @@
+[
+  {
+    "pais": "Argentina",
+    "codigo_iso": "ARG",
+    "regiones": [
+      {
+        "nombre": "Pampa Húmeda",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 16.9,
+            "precipitacion_total": 1050,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 17.26,
+            "temperatura_maxima": 22.3,
+            "temperatura_minima": 3.6,
+            "humedad_relativa_promedio": 64,
+            "dias_con_heladas": 19
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 18.7,
+            "precipitacion_total": 518,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 5,
+            "indice_aridez": 7.69,
+            "temperatura_maxima": 25.8,
+            "temperatura_minima": 6.7,
+            "humedad_relativa_promedio": 72,
+            "dias_con_heladas": 70
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 21.2,
+            "precipitacion_total": 1390,
+            "eventos_extremos": [
+              "ola_calor",
+              "sequia_moderada"
+            ],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 18.21,
+            "temperatura_maxima": 31.4,
+            "temperatura_minima": 9.9,
+            "humedad_relativa_promedio": 70,
+            "dias_con_heladas": 17
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 17.2,
+            "precipitacion_total": 731,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 5,
+            "indice_aridez": 11.81,
+            "temperatura_maxima": 29.2,
+            "temperatura_minima": 5.9,
+            "humedad_relativa_promedio": 40,
+            "dias_con_heladas": 20
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 16.8,
+            "precipitacion_total": 589,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 5,
+            "indice_aridez": 9.74,
+            "temperatura_maxima": 23.4,
+            "temperatura_minima": 6.3,
+            "humedad_relativa_promedio": 41,
+            "dias_con_heladas": 56
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 22.4,
+            "precipitacion_total": 825,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 10.23,
+            "temperatura_maxima": 29.9,
+            "temperatura_minima": 13.7,
+            "humedad_relativa_promedio": 61,
+            "dias_con_heladas": 61
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 21.6,
+            "precipitacion_total": 759,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 7,
+            "indice_aridez": 9.76,
+            "temperatura_maxima": 27.7,
+            "temperatura_minima": 12.3,
+            "humedad_relativa_promedio": 57,
+            "dias_con_heladas": 73
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 16.0,
+            "precipitacion_total": 390,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 11,
+            "indice_aridez": 6.77,
+            "temperatura_maxima": 30.4,
+            "temperatura_minima": 9.0,
+            "humedad_relativa_promedio": 76,
+            "dias_con_heladas": 96
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 13.0,
+            "precipitacion_total": 900,
+            "eventos_extremos": [
+              "helada_tardia"
+            ],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 19.23,
+            "temperatura_maxima": 22.0,
+            "temperatura_minima": 3.4,
+            "humedad_relativa_promedio": 82,
+            "dias_con_heladas": 18
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 12.4,
+            "precipitacion_total": 442,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 9,
+            "indice_aridez": 9.9,
+            "temperatura_maxima": 18.3,
+            "temperatura_minima": 5.0,
+            "humedad_relativa_promedio": 83,
+            "dias_con_heladas": 71
+          }
+        ]
+      },
+      {
+        "nombre": "Cuyo",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 22.6,
+            "precipitacion_total": 702,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 6,
+            "indice_aridez": 8.63,
+            "temperatura_maxima": 34.6,
+            "temperatura_minima": 8.5,
+            "humedad_relativa_promedio": 82,
+            "dias_con_heladas": 48
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 23.3,
+            "precipitacion_total": 961,
+            "eventos_extremos": [
+              "granizo"
+            ],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 11.46,
+            "temperatura_maxima": 37.3,
+            "temperatura_minima": 10.1,
+            "humedad_relativa_promedio": 67,
+            "dias_con_heladas": 76
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 15.9,
+            "precipitacion_total": 423,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 7,
+            "indice_aridez": 7.39,
+            "temperatura_maxima": 29.8,
+            "temperatura_minima": 9.1,
+            "humedad_relativa_promedio": 55,
+            "dias_con_heladas": 47
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 13.9,
+            "precipitacion_total": 937,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 18.73,
+            "temperatura_maxima": 25.4,
+            "temperatura_minima": 7.5,
+            "humedad_relativa_promedio": 52,
+            "dias_con_heladas": 5
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 12.7,
+            "precipitacion_total": 873,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 19.09,
+            "temperatura_maxima": 20.8,
+            "temperatura_minima": 0.9,
+            "humedad_relativa_promedio": 70,
+            "dias_con_heladas": 4
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 13.0,
+            "precipitacion_total": 1387,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 29.64,
+            "temperatura_maxima": 22.6,
+            "temperatura_minima": 7.2,
+            "humedad_relativa_promedio": 83,
+            "dias_con_heladas": 93
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 12.4,
+            "precipitacion_total": 1074,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 24.06,
+            "temperatura_maxima": 22.5,
+            "temperatura_minima": 0.5,
+            "humedad_relativa_promedio": 40,
+            "dias_con_heladas": 62
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 19.6,
+            "precipitacion_total": 907,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 12.85,
+            "temperatura_maxima": 30.6,
+            "temperatura_minima": 6.6,
+            "humedad_relativa_promedio": 68,
+            "dias_con_heladas": 64
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 15.1,
+            "precipitacion_total": 880,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 16.19,
+            "temperatura_maxima": 29.9,
+            "temperatura_minima": 4.8,
+            "humedad_relativa_promedio": 64,
+            "dias_con_heladas": 111
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 19.6,
+            "precipitacion_total": 563,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 7.98,
+            "temperatura_maxima": 29.7,
+            "temperatura_minima": 8.5,
+            "humedad_relativa_promedio": 69,
+            "dias_con_heladas": 55
+          }
+        ]
+      },
+      {
+        "nombre": "Patagonia",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 9.6,
+            "precipitacion_total": 635,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 7,
+            "indice_aridez": 18.37,
+            "temperatura_maxima": 21.5,
+            "temperatura_minima": 2.1,
+            "humedad_relativa_promedio": 61,
+            "dias_con_heladas": 86
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 14.6,
+            "precipitacion_total": 1118,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 21.27,
+            "temperatura_maxima": 24.1,
+            "temperatura_minima": 6.6,
+            "humedad_relativa_promedio": 42,
+            "dias_con_heladas": 76
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 11.8,
+            "precipitacion_total": 1129,
+            "eventos_extremos": [
+              "sequia_severa",
+              "sequia_extrema",
+              "helada_tardia"
+            ],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 26.58,
+            "temperatura_maxima": 23.1,
+            "temperatura_minima": 2.5,
+            "humedad_relativa_promedio": 57,
+            "dias_con_heladas": 44
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 23.8,
+            "precipitacion_total": 1273,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 14.86,
+            "temperatura_maxima": 34.5,
+            "temperatura_minima": 18.4,
+            "humedad_relativa_promedio": 60,
+            "dias_con_heladas": 47
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 11.2,
+            "precipitacion_total": 1160,
+            "eventos_extremos": [
+              "sequia_severa",
+              "helada_tardia",
+              "incendios"
+            ],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 28.77,
+            "temperatura_maxima": 20.4,
+            "temperatura_minima": 6.0,
+            "humedad_relativa_promedio": 56,
+            "dias_con_heladas": 92
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 20.8,
+            "precipitacion_total": 1323,
+            "eventos_extremos": [
+              "ola_calor"
+            ],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 17.67,
+            "temperatura_maxima": 32.0,
+            "temperatura_minima": 10.4,
+            "humedad_relativa_promedio": 55,
+            "dias_con_heladas": 88
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 21.9,
+            "precipitacion_total": 827,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 10.49,
+            "temperatura_maxima": 29.7,
+            "temperatura_minima": 10.2,
+            "humedad_relativa_promedio": 78,
+            "dias_con_heladas": 51
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 23.0,
+            "precipitacion_total": 1072,
+            "eventos_extremos": [
+              "sequia_extrema",
+              "ola_calor"
+            ],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 12.95,
+            "temperatura_maxima": 32.6,
+            "temperatura_minima": 10.1,
+            "humedad_relativa_promedio": 80,
+            "dias_con_heladas": 40
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 12.1,
+            "precipitacion_total": 506,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 7,
+            "indice_aridez": 11.62,
+            "temperatura_maxima": 25.4,
+            "temperatura_minima": 1.2,
+            "humedad_relativa_promedio": 80,
+            "dias_con_heladas": 76
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 16.2,
+            "precipitacion_total": 617,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 5,
+            "indice_aridez": 10.58,
+            "temperatura_maxima": 29.4,
+            "temperatura_minima": 9.7,
+            "humedad_relativa_promedio": 71,
+            "dias_con_heladas": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pais": "Brasil",
+    "codigo_iso": "BRA",
+    "regiones": [
+      {
+        "nombre": "Cerrado",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 17.7,
+            "precipitacion_total": 484,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 10,
+            "indice_aridez": 7.6,
+            "temperatura_maxima": 32.4,
+            "temperatura_minima": 6.4,
+            "humedad_relativa_promedio": 75,
+            "dias_con_heladas": 44
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 11.3,
+            "precipitacion_total": 1103,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 27.11,
+            "temperatura_maxima": 23.0,
+            "temperatura_minima": 6.0,
+            "humedad_relativa_promedio": 79,
+            "dias_con_heladas": 74
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 12.3,
+            "precipitacion_total": 865,
+            "eventos_extremos": [
+              "tormenta_severa",
+              "incendios"
+            ],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 19.53,
+            "temperatura_maxima": 21.1,
+            "temperatura_minima": 1.9,
+            "humedad_relativa_promedio": 64,
+            "dias_con_heladas": 77
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 23.9,
+            "precipitacion_total": 396,
+            "eventos_extremos": [
+              "sequia_extrema",
+              "tormenta_severa"
+            ],
+            "meses_estres_hidrico": 12,
+            "indice_aridez": 4.6,
+            "temperatura_maxima": 36.7,
+            "temperatura_minima": 11.6,
+            "humedad_relativa_promedio": 65,
+            "dias_con_heladas": 70
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 15.9,
+            "precipitacion_total": 1249,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 21.82,
+            "temperatura_maxima": 27.2,
+            "temperatura_minima": 4.3,
+            "humedad_relativa_promedio": 83,
+            "dias_con_heladas": 81
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 21.5,
+            "precipitacion_total": 651,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 6,
+            "indice_aridez": 8.41,
+            "temperatura_maxima": 34.1,
+            "temperatura_minima": 13.6,
+            "humedad_relativa_promedio": 68,
+            "dias_con_heladas": 20
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 23.2,
+            "precipitacion_total": 519,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 6,
+            "indice_aridez": 6.21,
+            "temperatura_maxima": 34.8,
+            "temperatura_minima": 11.4,
+            "humedad_relativa_promedio": 46,
+            "dias_con_heladas": 49
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 18.5,
+            "precipitacion_total": 701,
+            "eventos_extremos": [
+              "sequia_extrema"
+            ],
+            "meses_estres_hidrico": 7,
+            "indice_aridez": 10.53,
+            "temperatura_maxima": 29.7,
+            "temperatura_minima": 3.5,
+            "humedad_relativa_promedio": 78,
+            "dias_con_heladas": 73
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 20.5,
+            "precipitacion_total": 1291,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 17.49,
+            "temperatura_maxima": 32.3,
+            "temperatura_minima": 6.0,
+            "humedad_relativa_promedio": 41,
+            "dias_con_heladas": 95
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 18.7,
+            "precipitacion_total": 1253,
+            "eventos_extremos": [
+              "incendios"
+            ],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 18.61,
+            "temperatura_maxima": 30.9,
+            "temperatura_minima": 11.3,
+            "humedad_relativa_promedio": 70,
+            "dias_con_heladas": 119
+          }
+        ]
+      },
+      {
+        "nombre": "Amazonía",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 19.6,
+            "precipitacion_total": 445,
+            "eventos_extremos": [
+              "incendios",
+              "tormenta_severa",
+              "sequia_severa"
+            ],
+            "meses_estres_hidrico": 11,
+            "indice_aridez": 6.31,
+            "temperatura_maxima": 30.6,
+            "temperatura_minima": 4.7,
+            "humedad_relativa_promedio": 51,
+            "dias_con_heladas": 59
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 17.8,
+            "precipitacion_total": 404,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 7,
+            "indice_aridez": 6.3,
+            "temperatura_maxima": 25.2,
+            "temperatura_minima": 5.6,
+            "humedad_relativa_promedio": 44,
+            "dias_con_heladas": 0
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 20.9,
+            "precipitacion_total": 1127,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 14.98,
+            "temperatura_maxima": 26.6,
+            "temperatura_minima": 11.7,
+            "humedad_relativa_promedio": 56,
+            "dias_con_heladas": 113
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 21.6,
+            "precipitacion_total": 471,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 6,
+            "indice_aridez": 6.06,
+            "temperatura_maxima": 31.0,
+            "temperatura_minima": 8.3,
+            "humedad_relativa_promedio": 43,
+            "dias_con_heladas": 37
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 22.9,
+            "precipitacion_total": 1055,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 12.8,
+            "temperatura_maxima": 34.2,
+            "temperatura_minima": 13.5,
+            "humedad_relativa_promedio": 47,
+            "dias_con_heladas": 13
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 13.2,
+            "precipitacion_total": 677,
+            "eventos_extremos": [
+              "helada_tardia"
+            ],
+            "meses_estres_hidrico": 6,
+            "indice_aridez": 14.25,
+            "temperatura_maxima": 24.8,
+            "temperatura_minima": 6.8,
+            "humedad_relativa_promedio": 55,
+            "dias_con_heladas": 101
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 16.7,
+            "precipitacion_total": 665,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 6,
+            "indice_aridez": 11.06,
+            "temperatura_maxima": 29.2,
+            "temperatura_minima": 4.1,
+            "humedad_relativa_promedio": 61,
+            "dias_con_heladas": 37
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 20.2,
+            "precipitacion_total": 629,
+            "eventos_extremos": [
+              "sequia_extrema"
+            ],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 8.65,
+            "temperatura_maxima": 30.4,
+            "temperatura_minima": 14.9,
+            "humedad_relativa_promedio": 63,
+            "dias_con_heladas": 72
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 16.8,
+            "precipitacion_total": 560,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 6,
+            "indice_aridez": 9.26,
+            "temperatura_maxima": 28.9,
+            "temperatura_minima": 5.1,
+            "humedad_relativa_promedio": 49,
+            "dias_con_heladas": 95
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 22.4,
+            "precipitacion_total": 519,
+            "eventos_extremos": [
+              "sequia_moderada"
+            ],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 6.44,
+            "temperatura_maxima": 33.2,
+            "temperatura_minima": 15.9,
+            "humedad_relativa_promedio": 40,
+            "dias_con_heladas": 33
+          }
+        ]
+      },
+      {
+        "nombre": "Mata Atlántica",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 16.6,
+            "precipitacion_total": 916,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 15.33,
+            "temperatura_maxima": 31.3,
+            "temperatura_minima": 5.2,
+            "humedad_relativa_promedio": 77,
+            "dias_con_heladas": 109
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 17.2,
+            "precipitacion_total": 1086,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 17.54,
+            "temperatura_maxima": 27.0,
+            "temperatura_minima": 7.4,
+            "humedad_relativa_promedio": 64,
+            "dias_con_heladas": 1
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 19.2,
+            "precipitacion_total": 333,
+            "eventos_extremos": [
+              "sequia_severa",
+              "inundacion",
+              "sequia_extrema"
+            ],
+            "meses_estres_hidrico": 9,
+            "indice_aridez": 4.82,
+            "temperatura_maxima": 28.8,
+            "temperatura_minima": 5.1,
+            "humedad_relativa_promedio": 40,
+            "dias_con_heladas": 107
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 22.1,
+            "precipitacion_total": 1486,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 18.68,
+            "temperatura_maxima": 33.7,
+            "temperatura_minima": 13.1,
+            "humedad_relativa_promedio": 46,
+            "dias_con_heladas": 42
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 19.0,
+            "precipitacion_total": 712,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 10.41,
+            "temperatura_maxima": 33.7,
+            "temperatura_minima": 13.4,
+            "humedad_relativa_promedio": 76,
+            "dias_con_heladas": 66
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 14.4,
+            "precipitacion_total": 653,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 12.6,
+            "temperatura_maxima": 21.7,
+            "temperatura_minima": 2.2,
+            "humedad_relativa_promedio": 51,
+            "dias_con_heladas": 5
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 24.0,
+            "precipitacion_total": 679,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 7.86,
+            "temperatura_maxima": 38.1,
+            "temperatura_minima": 17.7,
+            "humedad_relativa_promedio": 59,
+            "dias_con_heladas": 7
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 13.9,
+            "precipitacion_total": 587,
+            "eventos_extremos": [
+              "helada_tardia"
+            ],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 11.73,
+            "temperatura_maxima": 20.9,
+            "temperatura_minima": 7.7,
+            "humedad_relativa_promedio": 45,
+            "dias_con_heladas": 60
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 12.1,
+            "precipitacion_total": 945,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 21.69,
+            "temperatura_maxima": 21.4,
+            "temperatura_minima": -1.9,
+            "humedad_relativa_promedio": 68,
+            "dias_con_heladas": 99
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 20.0,
+            "precipitacion_total": 1109,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 15.4,
+            "temperatura_maxima": 32.5,
+            "temperatura_minima": 9.0,
+            "humedad_relativa_promedio": 71,
+            "dias_con_heladas": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pais": "Estados Unidos",
+    "codigo_iso": "USA",
+    "regiones": [
+      {
+        "nombre": "Corn Belt",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 12.7,
+            "precipitacion_total": 1072,
+            "eventos_extremos": [
+              "inundacion",
+              "helada_tardia",
+              "sequia_extrema"
+            ],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 23.45,
+            "temperatura_maxima": 22.7,
+            "temperatura_minima": 1.4,
+            "humedad_relativa_promedio": 47,
+            "dias_con_heladas": 96
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 23.6,
+            "precipitacion_total": 1053,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 12.39,
+            "temperatura_maxima": 30.4,
+            "temperatura_minima": 11.0,
+            "humedad_relativa_promedio": 83,
+            "dias_con_heladas": 38
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 10.9,
+            "precipitacion_total": 1434,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 36.54,
+            "temperatura_maxima": 23.7,
+            "temperatura_minima": -1.7,
+            "humedad_relativa_promedio": 53,
+            "dias_con_heladas": 39
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 17.6,
+            "precipitacion_total": 575,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 7,
+            "indice_aridez": 9.08,
+            "temperatura_maxima": 24.7,
+            "temperatura_minima": 5.9,
+            "humedad_relativa_promedio": 60,
+            "dias_con_heladas": 20
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 11.9,
+            "precipitacion_total": 669,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 5,
+            "indice_aridez": 15.62,
+            "temperatura_maxima": 26.5,
+            "temperatura_minima": -2.9,
+            "humedad_relativa_promedio": 81,
+            "dias_con_heladas": 76
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 21.1,
+            "precipitacion_total": 1449,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 19.08,
+            "temperatura_maxima": 29.8,
+            "temperatura_minima": 13.0,
+            "humedad_relativa_promedio": 62,
+            "dias_con_heladas": 106
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 21.0,
+            "precipitacion_total": 803,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 10.62,
+            "temperatura_maxima": 26.6,
+            "temperatura_minima": 11.9,
+            "humedad_relativa_promedio": 81,
+            "dias_con_heladas": 103
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 11.4,
+            "precipitacion_total": 956,
+            "eventos_extremos": [
+              "ola_calor",
+              "tormenta_severa",
+              "granizo"
+            ],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 23.29,
+            "temperatura_maxima": 16.6,
+            "temperatura_minima": 2.1,
+            "humedad_relativa_promedio": 64,
+            "dias_con_heladas": 41
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 19.3,
+            "precipitacion_total": 1242,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 17.88,
+            "temperatura_maxima": 25.4,
+            "temperatura_minima": 11.9,
+            "humedad_relativa_promedio": 60,
+            "dias_con_heladas": 92
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 17.1,
+            "precipitacion_total": 1385,
+            "eventos_extremos": [
+              "granizo",
+              "incendios",
+              "sequia_severa"
+            ],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 22.5,
+            "temperatura_maxima": 32.0,
+            "temperatura_minima": 6.2,
+            "humedad_relativa_promedio": 43,
+            "dias_con_heladas": 12
+          }
+        ]
+      },
+      {
+        "nombre": "Great Plains",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 11.0,
+            "precipitacion_total": 693,
+            "eventos_extremos": [
+              "sequia_extrema",
+              "sequia_severa"
+            ],
+            "meses_estres_hidrico": 5,
+            "indice_aridez": 17.5,
+            "temperatura_maxima": 25.8,
+            "temperatura_minima": -1.3,
+            "humedad_relativa_promedio": 49,
+            "dias_con_heladas": 111
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 11.4,
+            "precipitacion_total": 550,
+            "eventos_extremos": [
+              "tormenta_severa",
+              "ola_calor",
+              "incendios"
+            ],
+            "meses_estres_hidrico": 7,
+            "indice_aridez": 13.4,
+            "temperatura_maxima": 24.6,
+            "temperatura_minima": -0.5,
+            "humedad_relativa_promedio": 48,
+            "dias_con_heladas": 98
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 22.1,
+            "precipitacion_total": 1473,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 18.51,
+            "temperatura_maxima": 36.2,
+            "temperatura_minima": 12.6,
+            "humedad_relativa_promedio": 53,
+            "dias_con_heladas": 23
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 14.4,
+            "precipitacion_total": 504,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 5,
+            "indice_aridez": 9.72,
+            "temperatura_maxima": 22.0,
+            "temperatura_minima": 1.9,
+            "humedad_relativa_promedio": 41,
+            "dias_con_heladas": 17
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 11.5,
+            "precipitacion_total": 788,
+            "eventos_extremos": [
+              "sequia_moderada",
+              "helada_tardia",
+              "tormenta_severa"
+            ],
+            "meses_estres_hidrico": 7,
+            "indice_aridez": 19.03,
+            "temperatura_maxima": 20.9,
+            "temperatura_minima": 6.2,
+            "humedad_relativa_promedio": 72,
+            "dias_con_heladas": 111
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 22.0,
+            "precipitacion_total": 1285,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 16.22,
+            "temperatura_maxima": 32.7,
+            "temperatura_minima": 7.3,
+            "humedad_relativa_promedio": 47,
+            "dias_con_heladas": 68
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 13.4,
+            "precipitacion_total": 943,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 19.55,
+            "temperatura_maxima": 25.9,
+            "temperatura_minima": 0.7,
+            "humedad_relativa_promedio": 67,
+            "dias_con_heladas": 104
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 15.3,
+            "precipitacion_total": 921,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 16.72,
+            "temperatura_maxima": 22.1,
+            "temperatura_minima": 4.5,
+            "humedad_relativa_promedio": 69,
+            "dias_con_heladas": 67
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 23.1,
+            "precipitacion_total": 1372,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 16.5,
+            "temperatura_maxima": 28.2,
+            "temperatura_minima": 9.8,
+            "humedad_relativa_promedio": 41,
+            "dias_con_heladas": 1
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 12.7,
+            "precipitacion_total": 722,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 5,
+            "indice_aridez": 15.79,
+            "temperatura_maxima": 23.0,
+            "temperatura_minima": 1.2,
+            "humedad_relativa_promedio": 52,
+            "dias_con_heladas": 98
+          }
+        ]
+      },
+      {
+        "nombre": "California",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 23.5,
+            "precipitacion_total": 1531,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 18.1,
+            "temperatura_maxima": 36.2,
+            "temperatura_minima": 16.4,
+            "humedad_relativa_promedio": 51,
+            "dias_con_heladas": 12
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 11.4,
+            "precipitacion_total": 1136,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 27.68,
+            "temperatura_maxima": 19.7,
+            "temperatura_minima": 3.2,
+            "humedad_relativa_promedio": 54,
+            "dias_con_heladas": 84
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 12.9,
+            "precipitacion_total": 602,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 12.96,
+            "temperatura_maxima": 25.6,
+            "temperatura_minima": 7.6,
+            "humedad_relativa_promedio": 68,
+            "dias_con_heladas": 15
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 22.3,
+            "precipitacion_total": 823,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 10.25,
+            "temperatura_maxima": 27.8,
+            "temperatura_minima": 12.9,
+            "humedad_relativa_promedio": 52,
+            "dias_con_heladas": 26
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 20.4,
+            "precipitacion_total": 1197,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 16.3,
+            "temperatura_maxima": 32.6,
+            "temperatura_minima": 14.2,
+            "humedad_relativa_promedio": 53,
+            "dias_con_heladas": 15
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 23.7,
+            "precipitacion_total": 1424,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 16.69,
+            "temperatura_maxima": 38.6,
+            "temperatura_minima": 10.7,
+            "humedad_relativa_promedio": 63,
+            "dias_con_heladas": 61
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 13.7,
+            "precipitacion_total": 348,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 9,
+            "indice_aridez": 7.06,
+            "temperatura_maxima": 28.3,
+            "temperatura_minima": 7.7,
+            "humedad_relativa_promedio": 63,
+            "dias_con_heladas": 39
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 23.6,
+            "precipitacion_total": 755,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 8.89,
+            "temperatura_maxima": 35.1,
+            "temperatura_minima": 10.5,
+            "humedad_relativa_promedio": 70,
+            "dias_con_heladas": 2
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 24.7,
+            "precipitacion_total": 585,
+            "eventos_extremos": [
+              "sequia_extrema"
+            ],
+            "meses_estres_hidrico": 7,
+            "indice_aridez": 6.58,
+            "temperatura_maxima": 29.8,
+            "temperatura_minima": 14.5,
+            "humedad_relativa_promedio": 48,
+            "dias_con_heladas": 88
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 17.3,
+            "precipitacion_total": 306,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 8,
+            "indice_aridez": 4.91,
+            "temperatura_maxima": 26.0,
+            "temperatura_minima": 8.2,
+            "humedad_relativa_promedio": 50,
+            "dias_con_heladas": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pais": "India",
+    "codigo_iso": "IND",
+    "regiones": [
+      {
+        "nombre": "Punjab",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 14.0,
+            "precipitacion_total": 1561,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 30.97,
+            "temperatura_maxima": 22.7,
+            "temperatura_minima": -0.2,
+            "humedad_relativa_promedio": 50,
+            "dias_con_heladas": 3
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 17.8,
+            "precipitacion_total": 776,
+            "eventos_extremos": [
+              "sequia_moderada",
+              "tormenta_severa"
+            ],
+            "meses_estres_hidrico": 5,
+            "indice_aridez": 12.11,
+            "temperatura_maxima": 23.1,
+            "temperatura_minima": 8.1,
+            "humedad_relativa_promedio": 49,
+            "dias_con_heladas": 116
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 16.9,
+            "precipitacion_total": 1031,
+            "eventos_extremos": [
+              "sequia_moderada"
+            ],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 16.95,
+            "temperatura_maxima": 30.9,
+            "temperatura_minima": 11.0,
+            "humedad_relativa_promedio": 44,
+            "dias_con_heladas": 14
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 24.3,
+            "precipitacion_total": 993,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 11.35,
+            "temperatura_maxima": 37.4,
+            "temperatura_minima": 19.3,
+            "humedad_relativa_promedio": 70,
+            "dias_con_heladas": 60
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 23.0,
+            "precipitacion_total": 617,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 7.45,
+            "temperatura_maxima": 32.8,
+            "temperatura_minima": 10.5,
+            "humedad_relativa_promedio": 76,
+            "dias_con_heladas": 25
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 12.8,
+            "precipitacion_total": 786,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 17.06,
+            "temperatura_maxima": 25.0,
+            "temperatura_minima": 5.0,
+            "humedad_relativa_promedio": 79,
+            "dias_con_heladas": 13
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 14.4,
+            "precipitacion_total": 553,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 6,
+            "indice_aridez": 10.67,
+            "temperatura_maxima": 26.1,
+            "temperatura_minima": 4.2,
+            "humedad_relativa_promedio": 76,
+            "dias_con_heladas": 113
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 13.5,
+            "precipitacion_total": 1310,
+            "eventos_extremos": [
+              "sequia_moderada",
+              "granizo",
+              "helada_tardia"
+            ],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 26.95,
+            "temperatura_maxima": 26.4,
+            "temperatura_minima": -1.3,
+            "humedad_relativa_promedio": 40,
+            "dias_con_heladas": 18
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 18.7,
+            "precipitacion_total": 1248,
+            "eventos_extremos": [
+              "incendios",
+              "helada_tardia"
+            ],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 18.54,
+            "temperatura_maxima": 30.0,
+            "temperatura_minima": 5.5,
+            "humedad_relativa_promedio": 76,
+            "dias_con_heladas": 51
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 17.1,
+            "precipitacion_total": 568,
+            "eventos_extremos": [
+              "tormenta_severa",
+              "helada_tardia"
+            ],
+            "meses_estres_hidrico": 5,
+            "indice_aridez": 9.23,
+            "temperatura_maxima": 32.1,
+            "temperatura_minima": 10.2,
+            "humedad_relativa_promedio": 61,
+            "dias_con_heladas": 103
+          }
+        ]
+      },
+      {
+        "nombre": "Ganges",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 22.9,
+            "precipitacion_total": 1028,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 12.47,
+            "temperatura_maxima": 30.5,
+            "temperatura_minima": 10.1,
+            "humedad_relativa_promedio": 67,
+            "dias_con_heladas": 82
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 9.2,
+            "precipitacion_total": 1132,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 34.18,
+            "temperatura_maxima": 19.7,
+            "temperatura_minima": 1.2,
+            "humedad_relativa_promedio": 62,
+            "dias_con_heladas": 39
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 18.1,
+            "precipitacion_total": 1143,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 17.54,
+            "temperatura_maxima": 27.1,
+            "temperatura_minima": 3.7,
+            "humedad_relativa_promedio": 72,
+            "dias_con_heladas": 24
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 13.0,
+            "precipitacion_total": 982,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 20.98,
+            "temperatura_maxima": 24.0,
+            "temperatura_minima": 6.5,
+            "humedad_relativa_promedio": 73,
+            "dias_con_heladas": 67
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 10.8,
+            "precipitacion_total": 1012,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 26.03,
+            "temperatura_maxima": 19.5,
+            "temperatura_minima": 4.8,
+            "humedad_relativa_promedio": 50,
+            "dias_con_heladas": 81
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 20.5,
+            "precipitacion_total": 1146,
+            "eventos_extremos": [
+              "granizo",
+              "inundacion",
+              "sequia_extrema"
+            ],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 15.53,
+            "temperatura_maxima": 35.1,
+            "temperatura_minima": 6.0,
+            "humedad_relativa_promedio": 58,
+            "dias_con_heladas": 49
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 24.7,
+            "precipitacion_total": 1447,
+            "eventos_extremos": [
+              "sequia_moderada",
+              "sequia_severa"
+            ],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 16.27,
+            "temperatura_maxima": 36.8,
+            "temperatura_minima": 13.0,
+            "humedad_relativa_promedio": 53,
+            "dias_con_heladas": 118
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 19.7,
+            "precipitacion_total": 1116,
+            "eventos_extremos": [
+              "sequia_extrema",
+              "inundacion"
+            ],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 15.74,
+            "temperatura_maxima": 32.6,
+            "temperatura_minima": 8.2,
+            "humedad_relativa_promedio": 65,
+            "dias_con_heladas": 75
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 11.6,
+            "precipitacion_total": 1542,
+            "eventos_extremos": [
+              "sequia_severa",
+              "sequia_extrema"
+            ],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 36.93,
+            "temperatura_maxima": 21.0,
+            "temperatura_minima": -0.1,
+            "humedad_relativa_promedio": 60,
+            "dias_con_heladas": 1
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 19.6,
+            "precipitacion_total": 1025,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 14.53,
+            "temperatura_maxima": 31.2,
+            "temperatura_minima": 11.6,
+            "humedad_relativa_promedio": 47,
+            "dias_con_heladas": 69
+          }
+        ]
+      },
+      {
+        "nombre": "Deccan",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 19.9,
+            "precipitacion_total": 1007,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 14.06,
+            "temperatura_maxima": 33.7,
+            "temperatura_minima": 5.4,
+            "humedad_relativa_promedio": 42,
+            "dias_con_heladas": 48
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 23.0,
+            "precipitacion_total": 588,
+            "eventos_extremos": [
+              "incendios",
+              "ola_calor",
+              "sequia_severa"
+            ],
+            "meses_estres_hidrico": 7,
+            "indice_aridez": 7.1,
+            "temperatura_maxima": 29.0,
+            "temperatura_minima": 8.0,
+            "humedad_relativa_promedio": 78,
+            "dias_con_heladas": 76
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 24.0,
+            "precipitacion_total": 588,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 6,
+            "indice_aridez": 6.81,
+            "temperatura_maxima": 33.2,
+            "temperatura_minima": 12.6,
+            "humedad_relativa_promedio": 57,
+            "dias_con_heladas": 107
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 20.1,
+            "precipitacion_total": 633,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 5,
+            "indice_aridez": 8.75,
+            "temperatura_maxima": 34.9,
+            "temperatura_minima": 14.3,
+            "humedad_relativa_promedio": 46,
+            "dias_con_heladas": 91
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 22.1,
+            "precipitacion_total": 612,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 7.69,
+            "temperatura_maxima": 37.1,
+            "temperatura_minima": 8.8,
+            "humedad_relativa_promedio": 71,
+            "dias_con_heladas": 71
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 19.4,
+            "precipitacion_total": 1123,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 16.08,
+            "temperatura_maxima": 30.4,
+            "temperatura_minima": 8.5,
+            "humedad_relativa_promedio": 81,
+            "dias_con_heladas": 12
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 19.4,
+            "precipitacion_total": 416,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 10,
+            "indice_aridez": 5.96,
+            "temperatura_maxima": 28.6,
+            "temperatura_minima": 10.5,
+            "humedad_relativa_promedio": 42,
+            "dias_con_heladas": 44
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 19.6,
+            "precipitacion_total": 948,
+            "eventos_extremos": [
+              "granizo",
+              "sequia_moderada"
+            ],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 13.44,
+            "temperatura_maxima": 30.3,
+            "temperatura_minima": 14.4,
+            "humedad_relativa_promedio": 61,
+            "dias_con_heladas": 12
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 13.0,
+            "precipitacion_total": 780,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 5,
+            "indice_aridez": 16.67,
+            "temperatura_maxima": 26.2,
+            "temperatura_minima": 4.6,
+            "humedad_relativa_promedio": 55,
+            "dias_con_heladas": 35
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 16.6,
+            "precipitacion_total": 427,
+            "eventos_extremos": [
+              "inundacion"
+            ],
+            "meses_estres_hidrico": 10,
+            "indice_aridez": 7.15,
+            "temperatura_maxima": 29.3,
+            "temperatura_minima": 6.1,
+            "humedad_relativa_promedio": 60,
+            "dias_con_heladas": 94
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pais": "China",
+    "codigo_iso": "CHN",
+    "regiones": [
+      {
+        "nombre": "Región Principal",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 17.0,
+            "precipitacion_total": 817,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 13.35,
+            "temperatura_maxima": 25.5,
+            "temperatura_minima": 6.6,
+            "humedad_relativa_promedio": 54,
+            "dias_con_heladas": 40
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 23.1,
+            "precipitacion_total": 445,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 9,
+            "indice_aridez": 5.35,
+            "temperatura_maxima": 34.5,
+            "temperatura_minima": 10.5,
+            "humedad_relativa_promedio": 52,
+            "dias_con_heladas": 33
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 22.4,
+            "precipitacion_total": 860,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 10.66,
+            "temperatura_maxima": 37.0,
+            "temperatura_minima": 14.2,
+            "humedad_relativa_promedio": 47,
+            "dias_con_heladas": 24
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 19.3,
+            "precipitacion_total": 1424,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 20.5,
+            "temperatura_maxima": 26.1,
+            "temperatura_minima": 8.1,
+            "humedad_relativa_promedio": 44,
+            "dias_con_heladas": 25
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 12.6,
+            "precipitacion_total": 1229,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 27.09,
+            "temperatura_maxima": 24.8,
+            "temperatura_minima": 2.3,
+            "humedad_relativa_promedio": 65,
+            "dias_con_heladas": 17
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 25.2,
+            "precipitacion_total": 477,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 8,
+            "indice_aridez": 5.26,
+            "temperatura_maxima": 36.3,
+            "temperatura_minima": 10.5,
+            "humedad_relativa_promedio": 60,
+            "dias_con_heladas": 28
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 16.8,
+            "precipitacion_total": 372,
+            "eventos_extremos": [
+              "inundacion",
+              "tormenta_severa"
+            ],
+            "meses_estres_hidrico": 7,
+            "indice_aridez": 6.15,
+            "temperatura_maxima": 30.6,
+            "temperatura_minima": 7.4,
+            "humedad_relativa_promedio": 53,
+            "dias_con_heladas": 18
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 8.7,
+            "precipitacion_total": 619,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 6,
+            "indice_aridez": 19.76,
+            "temperatura_maxima": 19.3,
+            "temperatura_minima": -6.3,
+            "humedad_relativa_promedio": 52,
+            "dias_con_heladas": 52
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 12.5,
+            "precipitacion_total": 950,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 21.11,
+            "temperatura_maxima": 25.0,
+            "temperatura_minima": 0.4,
+            "humedad_relativa_promedio": 63,
+            "dias_con_heladas": 102
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 21.6,
+            "precipitacion_total": 956,
+            "eventos_extremos": [
+              "helada_tardia",
+              "sequia_severa",
+              "tormenta_severa"
+            ],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 12.29,
+            "temperatura_maxima": 29.8,
+            "temperatura_minima": 8.3,
+            "humedad_relativa_promedio": 84,
+            "dias_con_heladas": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pais": "Francia",
+    "codigo_iso": "FRA",
+    "regiones": [
+      {
+        "nombre": "Región Principal",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 20.7,
+            "precipitacion_total": 1160,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 15.57,
+            "temperatura_maxima": 31.1,
+            "temperatura_minima": 14.7,
+            "humedad_relativa_promedio": 78,
+            "dias_con_heladas": 29
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 21.2,
+            "precipitacion_total": 1186,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 15.54,
+            "temperatura_maxima": 28.9,
+            "temperatura_minima": 7.8,
+            "humedad_relativa_promedio": 69,
+            "dias_con_heladas": 79
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 15.3,
+            "precipitacion_total": 1209,
+            "eventos_extremos": [
+              "tormenta_severa",
+              "sequia_moderada"
+            ],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 21.95,
+            "temperatura_maxima": 25.1,
+            "temperatura_minima": 3.2,
+            "humedad_relativa_promedio": 44,
+            "dias_con_heladas": 87
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 14.6,
+            "precipitacion_total": 1302,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 24.77,
+            "temperatura_maxima": 26.7,
+            "temperatura_minima": 4.7,
+            "humedad_relativa_promedio": 85,
+            "dias_con_heladas": 97
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 23.3,
+            "precipitacion_total": 1455,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 17.35,
+            "temperatura_maxima": 31.6,
+            "temperatura_minima": 12.6,
+            "humedad_relativa_promedio": 72,
+            "dias_con_heladas": 52
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 12.7,
+            "precipitacion_total": 877,
+            "eventos_extremos": [
+              "sequia_moderada",
+              "helada_tardia",
+              "ola_calor"
+            ],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 19.18,
+            "temperatura_maxima": 25.4,
+            "temperatura_minima": 7.0,
+            "humedad_relativa_promedio": 44,
+            "dias_con_heladas": 67
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 15.3,
+            "precipitacion_total": 588,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 10.68,
+            "temperatura_maxima": 28.7,
+            "temperatura_minima": 10.0,
+            "humedad_relativa_promedio": 71,
+            "dias_con_heladas": 93
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 13.1,
+            "precipitacion_total": 418,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 9,
+            "indice_aridez": 8.86,
+            "temperatura_maxima": 26.1,
+            "temperatura_minima": 4.3,
+            "humedad_relativa_promedio": 70,
+            "dias_con_heladas": 17
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 22.1,
+            "precipitacion_total": 452,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 8,
+            "indice_aridez": 5.68,
+            "temperatura_maxima": 32.1,
+            "temperatura_minima": 15.3,
+            "humedad_relativa_promedio": 65,
+            "dias_con_heladas": 25
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 13.8,
+            "precipitacion_total": 1387,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 27.92,
+            "temperatura_maxima": 21.4,
+            "temperatura_minima": 0.0,
+            "humedad_relativa_promedio": 43,
+            "dias_con_heladas": 71
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pais": "Alemania",
+    "codigo_iso": "DEU",
+    "regiones": [
+      {
+        "nombre": "Región Principal",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 9.9,
+            "precipitacion_total": 886,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 24.86,
+            "temperatura_maxima": 18.2,
+            "temperatura_minima": 1.8,
+            "humedad_relativa_promedio": 76,
+            "dias_con_heladas": 72
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 14.6,
+            "precipitacion_total": 404,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 10,
+            "indice_aridez": 7.69,
+            "temperatura_maxima": 21.8,
+            "temperatura_minima": 6.1,
+            "humedad_relativa_promedio": 83,
+            "dias_con_heladas": 116
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 11.4,
+            "precipitacion_total": 731,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 17.81,
+            "temperatura_maxima": 21.5,
+            "temperatura_minima": -1.7,
+            "humedad_relativa_promedio": 68,
+            "dias_con_heladas": 3
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 20.5,
+            "precipitacion_total": 1589,
+            "eventos_extremos": [
+              "ola_calor",
+              "sequia_severa"
+            ],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 21.53,
+            "temperatura_maxima": 32.3,
+            "temperatura_minima": 9.6,
+            "humedad_relativa_promedio": 50,
+            "dias_con_heladas": 115
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 10.5,
+            "precipitacion_total": 555,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 6,
+            "indice_aridez": 14.68,
+            "temperatura_maxima": 24.8,
+            "temperatura_minima": 0.0,
+            "humedad_relativa_promedio": 64,
+            "dias_con_heladas": 100
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 16.9,
+            "precipitacion_total": 411,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 7,
+            "indice_aridez": 6.76,
+            "temperatura_maxima": 31.5,
+            "temperatura_minima": 7.0,
+            "humedad_relativa_promedio": 65,
+            "dias_con_heladas": 5
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 16.6,
+            "precipitacion_total": 1574,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 26.34,
+            "temperatura_maxima": 22.6,
+            "temperatura_minima": 6.4,
+            "humedad_relativa_promedio": 82,
+            "dias_con_heladas": 83
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 15.0,
+            "precipitacion_total": 944,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 17.48,
+            "temperatura_maxima": 26.4,
+            "temperatura_minima": 7.2,
+            "humedad_relativa_promedio": 48,
+            "dias_con_heladas": 57
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 21.8,
+            "precipitacion_total": 626,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 6,
+            "indice_aridez": 7.98,
+            "temperatura_maxima": 27.0,
+            "temperatura_minima": 15.8,
+            "humedad_relativa_promedio": 75,
+            "dias_con_heladas": 61
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 20.6,
+            "precipitacion_total": 739,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 9.96,
+            "temperatura_maxima": 30.9,
+            "temperatura_minima": 15.2,
+            "humedad_relativa_promedio": 45,
+            "dias_con_heladas": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pais": "Australia",
+    "codigo_iso": "AUS",
+    "regiones": [
+      {
+        "nombre": "Murray-Darling Basin",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 23.6,
+            "precipitacion_total": 1040,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 12.24,
+            "temperatura_maxima": 33.9,
+            "temperatura_minima": 18.1,
+            "humedad_relativa_promedio": 59,
+            "dias_con_heladas": 49
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 11.5,
+            "precipitacion_total": 1646,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 39.76,
+            "temperatura_maxima": 21.7,
+            "temperatura_minima": 4.7,
+            "humedad_relativa_promedio": 63,
+            "dias_con_heladas": 87
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 19.3,
+            "precipitacion_total": 1643,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 23.65,
+            "temperatura_maxima": 25.0,
+            "temperatura_minima": 12.3,
+            "humedad_relativa_promedio": 53,
+            "dias_con_heladas": 73
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 20.9,
+            "precipitacion_total": 281,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 8,
+            "indice_aridez": 3.73,
+            "temperatura_maxima": 25.9,
+            "temperatura_minima": 13.5,
+            "humedad_relativa_promedio": 61,
+            "dias_con_heladas": 22
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 24.4,
+            "precipitacion_total": 1466,
+            "eventos_extremos": [
+              "inundacion"
+            ],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 16.69,
+            "temperatura_maxima": 36.1,
+            "temperatura_minima": 10.6,
+            "humedad_relativa_promedio": 67,
+            "dias_con_heladas": 87
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 18.9,
+            "precipitacion_total": 1178,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 17.31,
+            "temperatura_maxima": 28.0,
+            "temperatura_minima": 13.8,
+            "humedad_relativa_promedio": 66,
+            "dias_con_heladas": 48
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 15.1,
+            "precipitacion_total": 1374,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 25.28,
+            "temperatura_maxima": 20.5,
+            "temperatura_minima": 2.4,
+            "humedad_relativa_promedio": 48,
+            "dias_con_heladas": 84
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 19.2,
+            "precipitacion_total": 332,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 6,
+            "indice_aridez": 4.8,
+            "temperatura_maxima": 26.0,
+            "temperatura_minima": 10.9,
+            "humedad_relativa_promedio": 56,
+            "dias_con_heladas": 87
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 20.1,
+            "precipitacion_total": 1037,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 14.33,
+            "temperatura_maxima": 26.2,
+            "temperatura_minima": 13.9,
+            "humedad_relativa_promedio": 52,
+            "dias_con_heladas": 11
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 17.2,
+            "precipitacion_total": 1075,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 17.36,
+            "temperatura_maxima": 23.3,
+            "temperatura_minima": 11.8,
+            "humedad_relativa_promedio": 64,
+            "dias_con_heladas": 23
+          }
+        ]
+      },
+      {
+        "nombre": "Wheatbelt",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 10.0,
+            "precipitacion_total": 1103,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 30.64,
+            "temperatura_maxima": 19.4,
+            "temperatura_minima": -2.7,
+            "humedad_relativa_promedio": 82,
+            "dias_con_heladas": 119
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 18.4,
+            "precipitacion_total": 1601,
+            "eventos_extremos": [
+              "sequia_extrema"
+            ],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 24.17,
+            "temperatura_maxima": 32.0,
+            "temperatura_minima": 10.9,
+            "humedad_relativa_promedio": 51,
+            "dias_con_heladas": 44
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 15.6,
+            "precipitacion_total": 1315,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 23.42,
+            "temperatura_maxima": 21.2,
+            "temperatura_minima": 8.8,
+            "humedad_relativa_promedio": 52,
+            "dias_con_heladas": 42
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 21.0,
+            "precipitacion_total": 684,
+            "eventos_extremos": [
+              "ola_calor",
+              "sequia_extrema",
+              "sequia_severa"
+            ],
+            "meses_estres_hidrico": 7,
+            "indice_aridez": 9.05,
+            "temperatura_maxima": 35.6,
+            "temperatura_minima": 15.4,
+            "humedad_relativa_promedio": 83,
+            "dias_con_heladas": 8
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 16.5,
+            "precipitacion_total": 816,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 13.74,
+            "temperatura_maxima": 21.9,
+            "temperatura_minima": 2.5,
+            "humedad_relativa_promedio": 83,
+            "dias_con_heladas": 29
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 8.8,
+            "precipitacion_total": 290,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 12,
+            "indice_aridez": 9.15,
+            "temperatura_maxima": 16.0,
+            "temperatura_minima": -2.5,
+            "humedad_relativa_promedio": 76,
+            "dias_con_heladas": 69
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 12.3,
+            "precipitacion_total": 1267,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 28.61,
+            "temperatura_maxima": 24.2,
+            "temperatura_minima": 3.4,
+            "humedad_relativa_promedio": 55,
+            "dias_con_heladas": 87
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 18.8,
+            "precipitacion_total": 632,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 9.34,
+            "temperatura_maxima": 28.3,
+            "temperatura_minima": 5.0,
+            "humedad_relativa_promedio": 54,
+            "dias_con_heladas": 18
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 15.7,
+            "precipitacion_total": 1124,
+            "eventos_extremos": [
+              "helada_tardia"
+            ],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 19.89,
+            "temperatura_maxima": 25.0,
+            "temperatura_minima": 7.7,
+            "humedad_relativa_promedio": 42,
+            "dias_con_heladas": 58
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 17.2,
+            "precipitacion_total": 1620,
+            "eventos_extremos": [
+              "helada_tardia",
+              "inundacion",
+              "incendios"
+            ],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 26.16,
+            "temperatura_maxima": 31.0,
+            "temperatura_minima": 7.6,
+            "humedad_relativa_promedio": 68,
+            "dias_con_heladas": 56
+          }
+        ]
+      },
+      {
+        "nombre": "Queensland Coast",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 23.8,
+            "precipitacion_total": 912,
+            "eventos_extremos": [
+              "inundacion",
+              "tormenta_severa",
+              "sequia_severa"
+            ],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 10.64,
+            "temperatura_maxima": 34.5,
+            "temperatura_minima": 9.3,
+            "humedad_relativa_promedio": 82,
+            "dias_con_heladas": 100
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 19.4,
+            "precipitacion_total": 1526,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 2,
+            "indice_aridez": 21.85,
+            "temperatura_maxima": 26.5,
+            "temperatura_minima": 13.0,
+            "humedad_relativa_promedio": 46,
+            "dias_con_heladas": 69
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 20.8,
+            "precipitacion_total": 732,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 9.78,
+            "temperatura_maxima": 27.8,
+            "temperatura_minima": 12.4,
+            "humedad_relativa_promedio": 50,
+            "dias_con_heladas": 84
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 14.8,
+            "precipitacion_total": 899,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 16.87,
+            "temperatura_maxima": 25.5,
+            "temperatura_minima": 8.1,
+            "humedad_relativa_promedio": 83,
+            "dias_con_heladas": 72
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 21.8,
+            "precipitacion_total": 1198,
+            "eventos_extremos": [
+              "incendios",
+              "inundacion"
+            ],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 15.27,
+            "temperatura_maxima": 34.4,
+            "temperatura_minima": 11.9,
+            "humedad_relativa_promedio": 79,
+            "dias_con_heladas": 119
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 21.8,
+            "precipitacion_total": 762,
+            "eventos_extremos": [
+              "sequia_severa"
+            ],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 9.71,
+            "temperatura_maxima": 26.9,
+            "temperatura_minima": 8.2,
+            "humedad_relativa_promedio": 43,
+            "dias_con_heladas": 42
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 24.0,
+            "precipitacion_total": 595,
+            "eventos_extremos": [
+              "ola_calor"
+            ],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 6.89,
+            "temperatura_maxima": 32.6,
+            "temperatura_minima": 9.9,
+            "humedad_relativa_promedio": 77,
+            "dias_con_heladas": 115
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 23.0,
+            "precipitacion_total": 796,
+            "eventos_extremos": [
+              "sequia_extrema",
+              "tormenta_severa",
+              "sequia_severa"
+            ],
+            "meses_estres_hidrico": 6,
+            "indice_aridez": 9.61,
+            "temperatura_maxima": 29.2,
+            "temperatura_minima": 8.9,
+            "humedad_relativa_promedio": 66,
+            "dias_con_heladas": 20
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 19.0,
+            "precipitacion_total": 962,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 14.06,
+            "temperatura_maxima": 33.8,
+            "temperatura_minima": 7.4,
+            "humedad_relativa_promedio": 49,
+            "dias_con_heladas": 116
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 15.6,
+            "precipitacion_total": 1149,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 20.46,
+            "temperatura_maxima": 28.3,
+            "temperatura_minima": 4.7,
+            "humedad_relativa_promedio": 63,
+            "dias_con_heladas": 119
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pais": "México",
+    "codigo_iso": "MEX",
+    "regiones": [
+      {
+        "nombre": "Región Principal",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 16.5,
+            "precipitacion_total": 796,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 7,
+            "indice_aridez": 13.4,
+            "temperatura_maxima": 24.9,
+            "temperatura_minima": 8.1,
+            "humedad_relativa_promedio": 45,
+            "dias_con_heladas": 113
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 15.9,
+            "precipitacion_total": 549,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 9.59,
+            "temperatura_maxima": 30.8,
+            "temperatura_minima": 3.0,
+            "humedad_relativa_promedio": 82,
+            "dias_con_heladas": 25
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 25.1,
+            "precipitacion_total": 807,
+            "eventos_extremos": [
+              "incendios",
+              "sequia_moderada",
+              "ola_calor"
+            ],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 8.93,
+            "temperatura_maxima": 34.3,
+            "temperatura_minima": 18.4,
+            "humedad_relativa_promedio": 56,
+            "dias_con_heladas": 24
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 18.9,
+            "precipitacion_total": 1196,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 17.58,
+            "temperatura_maxima": 24.4,
+            "temperatura_minima": 11.5,
+            "humedad_relativa_promedio": 59,
+            "dias_con_heladas": 33
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 15.4,
+            "precipitacion_total": 901,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 16.25,
+            "temperatura_maxima": 27.0,
+            "temperatura_minima": 7.1,
+            "humedad_relativa_promedio": 42,
+            "dias_con_heladas": 16
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 21.6,
+            "precipitacion_total": 1453,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 18.69,
+            "temperatura_maxima": 35.6,
+            "temperatura_minima": 12.8,
+            "humedad_relativa_promedio": 42,
+            "dias_con_heladas": 88
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 19.6,
+            "precipitacion_total": 1274,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 18.06,
+            "temperatura_maxima": 28.7,
+            "temperatura_minima": 11.2,
+            "humedad_relativa_promedio": 62,
+            "dias_con_heladas": 92
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 13.3,
+            "precipitacion_total": 442,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 11,
+            "indice_aridez": 9.23,
+            "temperatura_maxima": 19.1,
+            "temperatura_minima": 1.6,
+            "humedad_relativa_promedio": 60,
+            "dias_con_heladas": 110
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 18.6,
+            "precipitacion_total": 489,
+            "eventos_extremos": [
+              "sequia_extrema"
+            ],
+            "meses_estres_hidrico": 8,
+            "indice_aridez": 7.3,
+            "temperatura_maxima": 24.2,
+            "temperatura_minima": 7.9,
+            "humedad_relativa_promedio": 55,
+            "dias_con_heladas": 99
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 12.0,
+            "precipitacion_total": 427,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 10,
+            "indice_aridez": 9.88,
+            "temperatura_maxima": 17.7,
+            "temperatura_minima": 1.2,
+            "humedad_relativa_promedio": 69,
+            "dias_con_heladas": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pais": "Kenia",
+    "codigo_iso": "KEN",
+    "regiones": [
+      {
+        "nombre": "Región Principal",
+        "datos_climaticos": [
+          {
+            "anio": 2011,
+            "temperatura_promedio": 21.9,
+            "precipitacion_total": 1055,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 13.38,
+            "temperatura_maxima": 36.1,
+            "temperatura_minima": 7.6,
+            "humedad_relativa_promedio": 51,
+            "dias_con_heladas": 11
+          },
+          {
+            "anio": 2012,
+            "temperatura_promedio": 20.6,
+            "precipitacion_total": 440,
+            "eventos_extremos": [
+              "sequia_severa",
+              "granizo",
+              "sequia_extrema"
+            ],
+            "meses_estres_hidrico": 11,
+            "indice_aridez": 5.93,
+            "temperatura_maxima": 30.9,
+            "temperatura_minima": 10.8,
+            "humedad_relativa_promedio": 52,
+            "dias_con_heladas": 90
+          },
+          {
+            "anio": 2013,
+            "temperatura_promedio": 23.9,
+            "precipitacion_total": 939,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 10.91,
+            "temperatura_maxima": 33.3,
+            "temperatura_minima": 13.8,
+            "humedad_relativa_promedio": 45,
+            "dias_con_heladas": 22
+          },
+          {
+            "anio": 2014,
+            "temperatura_promedio": 25.7,
+            "precipitacion_total": 634,
+            "eventos_extremos": [
+              "sequia_severa"
+            ],
+            "meses_estres_hidrico": 4,
+            "indice_aridez": 6.85,
+            "temperatura_maxima": 32.6,
+            "temperatura_minima": 17.5,
+            "humedad_relativa_promedio": 54,
+            "dias_con_heladas": 20
+          },
+          {
+            "anio": 2015,
+            "temperatura_promedio": 15.3,
+            "precipitacion_total": 1257,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 1,
+            "indice_aridez": 22.82,
+            "temperatura_maxima": 24.6,
+            "temperatura_minima": 2.1,
+            "humedad_relativa_promedio": 55,
+            "dias_con_heladas": 67
+          },
+          {
+            "anio": 2016,
+            "temperatura_promedio": 10.7,
+            "precipitacion_total": 1249,
+            "eventos_extremos": [
+              "sequia_severa"
+            ],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 32.42,
+            "temperatura_maxima": 19.1,
+            "temperatura_minima": -1.6,
+            "humedad_relativa_promedio": 79,
+            "dias_con_heladas": 96
+          },
+          {
+            "anio": 2017,
+            "temperatura_promedio": 23.1,
+            "precipitacion_total": 430,
+            "eventos_extremos": [
+              "sequia_severa",
+              "helada_tardia",
+              "ola_calor"
+            ],
+            "meses_estres_hidrico": 12,
+            "indice_aridez": 5.17,
+            "temperatura_maxima": 37.3,
+            "temperatura_minima": 14.5,
+            "humedad_relativa_promedio": 83,
+            "dias_con_heladas": 77
+          },
+          {
+            "anio": 2018,
+            "temperatura_promedio": 19.5,
+            "precipitacion_total": 430,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 11,
+            "indice_aridez": 6.13,
+            "temperatura_maxima": 32.6,
+            "temperatura_minima": 10.8,
+            "humedad_relativa_promedio": 59,
+            "dias_con_heladas": 97
+          },
+          {
+            "anio": 2019,
+            "temperatura_promedio": 18.1,
+            "precipitacion_total": 851,
+            "eventos_extremos": [
+              "helada_tardia",
+              "granizo",
+              "inundacion"
+            ],
+            "meses_estres_hidrico": 3,
+            "indice_aridez": 13.06,
+            "temperatura_maxima": 26.3,
+            "temperatura_minima": 5.1,
+            "humedad_relativa_promedio": 65,
+            "dias_con_heladas": 59
+          },
+          {
+            "anio": 2020,
+            "temperatura_promedio": 22.0,
+            "precipitacion_total": 938,
+            "eventos_extremos": [],
+            "meses_estres_hidrico": 0,
+            "indice_aridez": 11.84,
+            "temperatura_maxima": 35.7,
+            "temperatura_minima": 9.1,
+            "humedad_relativa_promedio": 64,
+            "dias_con_heladas": 111
+          }
+        ]
+      }
+    ]
+  }
+]

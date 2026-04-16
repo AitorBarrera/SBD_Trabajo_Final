@@ -1,0 +1,101 @@
+﻿Fecha,Region,Pais,Cultivo,Severidad,Area afectada,Tratamiento aplicado,Eficacia,Perdida estimada,Plaga/Enfermedad,Plaga/Enfermedad detectada
+30/08/2020,Murray-Darling Basin,Australia,Arroz,Media,1050ha,Químico (Clorantraniliprol),85%,34%,Plaga,Gusano cogollero
+30/04/2020,California,Estados Unidos,Soja,Alta,1724ha,Biológico (Bacillus thuringiensis),70%,3%,Plaga,Ácaro
+29/12/2021,Región Principal,Francia,Girasol,Crítica,4114ha,Químico (Imidacloprid),74%,23%,Plaga,Gusano cogollero
+29/12/2020,Región Principal,China,Algodón,Baja,681ha,Físico (Control térmico),84%,30%,Plaga,Barrenador del tallo
+29/09/2020,Región Principal,Francia,Cebada,Media,3854ha,Cultural (Rotación de cultivos),92%,33%,Plaga,Ácaro
+28/11/2020,California,Estados Unidos,Soja,Baja,585ha,Cultural (Rotación de cultivos),87%,36%,Enfermedad,Piricularia
+28/10/2021,Cerrado,Brasil,Maíz,Media,1233ha,Biológico (Trichogramma spp.),94%,23%,Plaga,Langosta
+28/07/2021,Pampas,Brasil,Arroz,Crítica,945ha,Biológico (Nematodos entomopatógenos),84%,23%,Enfermedad,Roya de la hoja
+28/07/2020,Queensland Coast,Australia,Maíz,Baja,543ha,Biológico (Trichogramma spp.),98%,24%,Plaga,Ácaro
+28/05/2021,Tasmania,Australia,Maíz,Media,2552ha,Químico (Clorantraniliprol),73%,11%,Plaga,Pulgón
+27/10/2021,Región Principal,Alemania,Algodón,Alta,1734ha,Químico (Epoxiconazole),74%,11%,Enfermedad,Fusarium
+27/06/2021,Pampas,Brasil,Trigo,Alta,1189ha,Químico (Imidacloprid),72%,26%,Plaga,Langosta
+27/06/2020,Coastal,India,Maíz,Crítica,369ha,Cultural (Rotación de cultivos),77%,23%,Enfermedad,Roya de la hoja
+27/01/2021,Noroeste,Argentina,Caña de azúcar,Baja,3592ha,Cultural (Fecha de siembra ajustada),77%,19%,Enfermedad,Mildiu
+27/01/2020,Corn Belt,Estados Unidos,Arroz,Baja,314ha,Físico (Barreras físicas),96%,31%,Plaga,Ácaro
+26/10/2020,Región Principal,China,Arroz,Media,4081ha,Cultural (Rotación de cultivos),82%,32%,Plaga,Pulgón
+25/11/2020,Región Principal,China,Maíz,Baja,3912ha,Físico (Barreras físicas),80%,9%,Plaga,Langosta
+25/02/2020,Región Principal,Francia,Girasol,Alta,3839ha,Cultural (Fecha de siembra ajustada),74%,33%,Plaga,Ácaro
+25/01/2020,Pampas,Brasil,Arroz,Alta,2222ha,Biológico (Nematodos entomopatógenos),88%,32%,Enfermedad,Podredumbre
+24/10/2020,Great Plains,Estados Unidos,Cebada,Alta,1684ha,Físico (Control térmico),86%,13%,Plaga,Pulgón
+23/05/2020,Pampa Húmeda,Argentina,Caña de azúcar,Baja,2105ha,Físico (Barreras físicas),94%,36%,Plaga,Pulgón
+23/04/2021,Noroeste,Argentina,Girasol,Media,3577ha,Químico (Epoxiconazole),97%,39%,Plaga,Oruga militar tardía
+23/02/2021,Mata Atlántica,Brasil,Caña de azúcar,Media,2022ha,Biológico (Trichogramma spp.),97%,12%,Enfermedad,Roya de la hoja
+23/01/2020,Patagonia,Argentina,Soja,Media,995ha,Biológico (Trichogramma spp.),75%,2%,Plaga,Langosta
+22/09/2021,Región Principal,Francia,Girasol,Alta,828ha,Biológico (Nematodos entomopatógenos),72%,4%,Plaga,Mosca blanca
+22/08/2020,Región Principal,China,Té,Alta,2006ha,Físico (Trampas de feromonas),76%,32%,Plaga,Chinche marrón
+22/04/2020,Región Principal,Francia,Algodón,Media,1552ha,Biológico (Nematodos entomopatógenos),95%,8%,Plaga,Langosta
+22/03/2021,California,Estados Unidos,Arroz,Crítica,2023ha,Físico (Trampas de feromonas),92%,9%,Plaga,Mosca blanca
+22/02/2020,Región Principal,Francia,Soja,Media,3067ha,Cultural (Control manual),87%,36%,Plaga,Langosta
+21/11/2020,Región Principal,Alemania,Maíz,Crítica,3735ha,Cultural (Control manual),88%,28%,Plaga,Mosca blanca
+21/08/2021,Región Principal,China,Cebada,Media,1803ha,Químico (Epoxiconazole),98%,11%,Enfermedad,Podredumbre
+21/07/2020,Noroeste,Argentina,Caña de azúcar,Baja,4312ha,Cultural (Control manual),87%,8%,Plaga,Ácaro
+20/11/2021,Cuyo,Argentina,Girasol,Baja,410ha,Biológico (Trichogramma spp.),82%,13%,Plaga,Pulgón
+20/08/2021,Punjab,India,Arroz,Alta,4178ha,Cultural (Fecha de siembra ajustada),93%,27%,Plaga,Mosca blanca
+20/08/2020,Deccan,India,Trigo,Baja,3056ha,Biológico (Nematodos entomopatógenos),95%,2%,Plaga,Ácaro
+20/03/2020,California,Estados Unidos,Maíz,Alta,4435ha,Químico (Imidacloprid),96%,15%,Plaga,Chinche marrón
+20/01/2021,Wheatbelt,Australia,Maíz,Crítica,189ha,Físico (Control térmico),81%,25%,Plaga,Gusano cogollero
+19/09/2020,Cerrado,Brasil,Trigo,Alta,3815ha,Cultural (Fecha de siembra ajustada),96%,36%,Plaga,Ácaro
+19/06/2020,Wheatbelt,Australia,Cebada,Crítica,908ha,Químico (Clorantraniliprol),76%,32%,Plaga,Pulgón
+19/05/2021,Región Principal,Francia,Caña de azúcar,Baja,4910ha,Cultural (Fecha de siembra ajustada),96%,34%,Enfermedad,Mildiu
+18/12/2021,Cuyo,Argentina,Trigo,Alta,1666ha,Químico (Epoxiconazole),71%,2%,Plaga,Langosta
+18/12/2020,Región Principal,Alemania,Arroz,Media,1815ha,Cultural (Rotación de cultivos),70%,17%,Plaga,Chinche marrón
+18/05/2021,Wheatbelt,Australia,Girasol,Baja,2020ha,Químico (Clorantraniliprol),79%,25%,Plaga,Ácaro
+18/04/2020,California,Estados Unidos,Arroz,Alta,4502ha,Físico (Control térmico),91%,27%,Plaga,Pulgón
+18/01/2020,Mata Atlántica,Brasil,Maíz,Crítica,3064ha,Biológico (Trichogramma spp.),83%,3%,Plaga,Barrenador del tallo
+17/09/2021,Región Principal,Alemania,Caña de azúcar,Baja,27ha,Físico (Trampas de feromonas),71%,10%,Enfermedad,Roya de la hoja
+17/09/2020,Región Principal,Alemania,Trigo,Crítica,624ha,Físico (Control térmico),70%,28%,Plaga,Mosca blanca
+17/04/2021,Murray-Darling Basin,Australia,Trigo,Alta,956ha,Físico (Barreras físicas),82%,21%,Plaga,Pulgón
+17/02/2020,Coastal,India,Arroz,Crítica,4588ha,Físico (Trampas de feromonas),92%,5%,Enfermedad,Piricularia
+16/10/2021,Región Principal,China,Maíz,Crítica,3716ha,Cultural (Control manual),79%,20%,Enfermedad,Roya de la hoja
+16/08/2020,Deccan,India,Caña de azúcar,Baja,1529ha,Físico (Trampas de feromonas),87%,4%,Plaga,Langosta
+16/06/2020,California,Estados Unidos,Caña de azúcar,Baja,2084ha,Biológico (Nematodos entomopatógenos),86%,33%,Plaga,Ácaro
+15/12/2021,Región Principal,Francia,Té,Alta,3416ha,Biológico (Trichogramma spp.),98%,23%,Plaga,Chinche marrón
+15/07/2021,California,Estados Unidos,Algodón,Baja,552ha,Químico (Clorantraniliprol),78%,32%,Enfermedad,Tizón tardío
+15/06/2021,Región Principal,Francia,Cebada,Crítica,4003ha,Físico (Control térmico),71%,37%,Plaga,Gusano cogollero
+15/01/2020,Cerrado,Brasil,Maíz,Alta,10ha,Cultural (Fecha de siembra ajustada),82%,38%,Plaga,Oruga militar tardía
+14/12/2020,Coastal,India,Trigo,Media,756ha,Cultural (Fecha de siembra ajustada),73%,8%,Plaga,Oruga militar tardía
+14/09/2021,Ganges,India,Té,Crítica,688ha,Biológico (Bacillus thuringiensis),72%,2%,Plaga,Pulgón
+14/06/2020,Región Principal,Francia,Cebada,Baja,94ha,Químico (Clorantraniliprol),86%,30%,Plaga,Ácaro
+14/04/2021,Región Principal,Alemania,Café,Alta,4970ha,Físico (Barreras físicas),86%,28%,Enfermedad,Oídio
+14/02/2021,Wheatbelt,Australia,Algodón,Baja,561ha,Biológico (Trichogramma spp.),96%,13%,Plaga,Barrenador del tallo
+14/01/2022,Queensland Coast,Australia,Maíz,Baja,3897ha,Físico (Barreras físicas),98%,40%,Plaga,Ácaro
+13/06/2020,Región Principal,China,Café,Crítica,3121ha,Cultural (Rotación de cultivos),89%,32%,Plaga,Gusano cogollero
+13/01/2020,Región Principal,Francia,Caña de azúcar,Crítica,3943ha,Cultural (Control manual),97%,17%,Plaga,Chinche marrón
+12/05/2020,Región Principal,Alemania,Maíz,Media,2498ha,Físico (Control térmico),88%,32%,Plaga,Pulgón
+11/10/2020,Región Principal,China,Arroz,Alta,2171ha,Físico (Control térmico),91%,14%,Plaga,Ácaro
+11/07/2020,Tasmania,Australia,Arroz,Baja,1357ha,Químico (Imidacloprid),93%,40%,Enfermedad,Roya amarilla
+09/11/2021,Región Principal,Francia,Té,Crítica,1014ha,Cultural (Control manual),76%,32%,Enfermedad,Mildiu
+09/09/2021,Región Principal,Francia,Girasol,Crítica,3256ha,Químico (Epoxiconazole),83%,17%,Plaga,Langosta
+09/06/2021,Región Principal,China,Maíz,Baja,3682ha,Físico (Barreras físicas),95%,31%,Plaga,Pulgón
+09/02/2021,Pacific Northwest,Estados Unidos,Arroz,Media,765ha,Biológico (Nematodos entomopatógenos),90%,13%,Plaga,Gusano cogollero
+09/01/2022,Región Principal,China,Café,Crítica,332ha,Físico (Control térmico),88%,37%,Enfermedad,Tizón tardío
+08/12/2020,Región Principal,Alemania,Arroz,Alta,1946ha,Químico (Clorantraniliprol),87%,39%,Plaga,Mosca blanca
+08/09/2021,Queensland Coast,Australia,Soja,Crítica,3335ha,Físico (Trampas de feromonas),83%,32%,Enfermedad,Piricularia
+08/03/2021,Región Principal,China,Café,Crítica,1115ha,Químico (Clorantraniliprol),85%,11%,Plaga,Oruga militar tardía
+07/11/2020,Región Principal,China,Té,Alta,4974ha,Biológico (Trichogramma spp.),73%,26%,Plaga,Chinche marrón
+07/08/2021,Región Principal,Francia,Caña de azúcar,Alta,4324ha,Químico (Lambda-cihalotrin),95%,40%,Plaga,Pulgón
+07/03/2020,Región Principal,Alemania,Girasol,Media,2736ha,Cultural (Control manual),84%,30%,Plaga,Mosca blanca
+06/05/2021,Pacific Northwest,Estados Unidos,Cebada,Media,3606ha,Cultural (Fecha de siembra ajustada),82%,31%,Plaga,Oruga militar tardía
+05/10/2020,Mata Atlántica,Brasil,Cebada,Media,2574ha,Cultural (Rotación de cultivos),88%,14%,Enfermedad,Fusarium
+05/09/2021,Mata Atlántica,Brasil,Café,Crítica,4651ha,Cultural (Fecha de siembra ajustada),72%,17%,Plaga,Ácaro
+05/08/2020,Región Principal,Alemania,Café,Baja,207ha,Químico (Clorantraniliprol),88%,13%,Enfermedad,Roya de la hoja
+05/06/2020,Mata Atlántica,Brasil,Algodón,Baja,3122ha,Biológico (Trichogramma spp.),94%,7%,Enfermedad,Oídio
+05/01/2021,Región Principal,Alemania,Arroz,Alta,2047ha,Cultural (Rotación de cultivos),82%,40%,Plaga,Ácaro
+04/12/2021,Tasmania,Australia,Caña de azúcar,Crítica,1098ha,Cultural (Control manual),92%,29%,Enfermedad,Antracnosis
+04/10/2021,Región Principal,China,Trigo,Media,4227ha,Biológico (Trichogramma spp.),89%,16%,Plaga,Mosca blanca
+04/02/2021,Corn Belt,Estados Unidos,Soja,Crítica,1230ha,Cultural (Rotación de cultivos),97%,29%,Plaga,Mosca blanca
+03/12/2020,Pacific Northwest,Estados Unidos,Soja,Baja,922ha,Cultural (Control manual),93%,19%,Plaga,Oruga militar tardía
+03/04/2021,Punjab,India,Trigo,Media,14ha,Cultural (Fecha de siembra ajustada),86%,33%,Plaga,Ácaro
+03/04/2020,Región Principal,Alemania,Soja,Baja,4266ha,Biológico (Nematodos entomopatógenos),70%,18%,Enfermedad,Podredumbre
+03/02/2020,Corn Belt,Estados Unidos,Maíz,Alta,3935ha,Químico (Lambda-cihalotrin),70%,19%,Plaga,Mosca blanca
+02/10/2021,Cuyo,Argentina,Arroz,Baja,2199ha,Cultural (Control manual),96%,35%,Enfermedad,Oídio
+02/09/2020,Región Principal,Francia,Algodón,Crítica,3694ha,Químico (Imidacloprid),85%,34%,Plaga,Pulgón
+02/07/2021,Región Principal,Alemania,Arroz,Media,1603ha,Físico (Control térmico),76%,28%,Plaga,Oruga militar tardía
+02/02/2021,Región Principal,China,Caña de azúcar,Baja,3134ha,Cultural (Rotación de cultivos),94%,16%,Plaga,Barrenador del tallo
+02/01/2021,Tasmania,Australia,Café,Alta,1193ha,Biológico (Nematodos entomopatógenos),96%,26%,Enfermedad,Tizón tardío
+01/09/2020,Pacific Northwest,Estados Unidos,Arroz,Media,2160ha,Físico (Trampas de feromonas),94%,29%,Enfermedad,Antracnosis
+01/05/2020,Región Principal,China,Soja,Baja,2086ha,Físico (Trampas de feromonas),83%,24%,Plaga,Gusano cogollero
+01/01/2021,Región Principal,Alemania,Té,Media,4036ha,Físico (Control térmico),80%,22%,Plaga,Mosca blanca
+01/01/2020,Región Principal,China,Arroz,Media,2745ha,Químico (Epoxiconazole),93%,26%,Plaga,Barrenador del tallo

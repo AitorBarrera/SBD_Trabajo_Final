@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<politicas>
+  <pais codigo="ARG" nombre="Argentina">
+    <subsidio tipo="maquinaria" anio="2021" monto="25542386" moneda="USD" beneficiarios="1914" descripcion="Subsidio para maquinaria"/>
+    <subsidio tipo="expansion_frontera_agricola" anio="2023" monto="12595066" moneda="USD" beneficiarios="10898" descripcion="Subsidio para expansion frontera agricola"/>
+    <subsidio tipo="investigacion_desarrollo" anio="2019" monto="15562206" moneda="USD" beneficiarios="7215" descripcion="Subsidio para investigacion desarrollo"/>
+    <subsidio tipo="fertilizantes" anio="2021" monto="32694726" moneda="USD" beneficiarios="10823" descripcion="Subsidio para fertilizantes"/>
+    <regulacion tipo="pesticidas_neonicotinoides" vigente="true" anio_implementacion="2010"/>
+    <regulacion tipo="uso_agua" vigente="false" anio_implementacion="2012"/>
+    <regulacion tipo="etanol_mezcla" vigente="false" anio_implementacion="2013"/>
+    <acuerdo_internacional nombre="Convenio_Biodiversidad" firmado="false"/>
+  </pais>
+  <pais codigo="BRA" nombre="Brasil">
+    <subsidio tipo="expansion_frontera_agricola" anio="2019" monto="33704977" moneda="USD" beneficiarios="44633" descripcion="Subsidio para expansion frontera agricola"/>
+    <subsidio tipo="fertilizantes" anio="2020" monto="8114311" moneda="USD" beneficiarios="5384" descripcion="Subsidio para fertilizantes"/>
+    <subsidio tipo="bioenergia" anio="2023" monto="32990812" moneda="USD" beneficiarios="40833" descripcion="Subsidio para bioenergia"/>
+    <regulacion tipo="deforestacion" vigente="true" anio_implementacion="2018" multa_hectarea="4548"/>
+    <regulacion tipo="reservas_legales" vigente="false" anio_implementacion="2017" porcentaje_minimo="20"/>
+    <regulacion tipo="etanol_mezcla" vigente="true" anio_implementacion="2015"/>
+    <acuerdo_internacional nombre="Protocolo_Kyoto" firmado="true" anio_firma="2009"/>
+    <acuerdo_internacional nombre="Acuerdo_Mercosur" firmado="true" anio_firma="2006"/>
+    <acuerdo_internacional nombre="Convenio_Biodiversidad" firmado="false"/>
+  </pais>
+  <pais codigo="USA" nombre="Estados Unidos">
+    <subsidio tipo="bioenergia" anio="2023" monto="9598894" moneda="USD" beneficiarios="25219" descripcion="Subsidio para bioenergia"/>
+    <subsidio tipo="investigacion_desarrollo" anio="2021" monto="5236246" moneda="USD" beneficiarios="2160" descripcion="Subsidio para investigacion desarrollo"/>
+    <subsidio tipo="credito_rural" anio="2020" monto="28984435" moneda="USD" beneficiarios="17129" descripcion="Subsidio para credito rural"/>
+    <regulacion tipo="pesticidas_neonicotinoides" vigente="true" anio_implementacion="2015"/>
+    <regulacion tipo="uso_agua" vigente="false" anio_implementacion="2018"/>
+    <acuerdo_internacional nombre="Acuerdo_Mercosur" firmado="true" anio_firma="2018"/>
+    <acuerdo_internacional nombre="Protocolo_Kyoto" firmado="true" anio_firma="2020"/>
+  </pais>
+  <pais codigo="IND" nombre="India">
+    <subsidio tipo="investigacion_desarrollo" anio="2019" monto="48520114" moneda="USD" beneficiarios="39852" descripcion="Subsidio para investigacion desarrollo"/>
+    <subsidio tipo="investigacion_desarrollo" anio="2019" monto="17716755" moneda="USD" beneficiarios="33020" descripcion="Subsidio para investigacion desarrollo"/>
+    <subsidio tipo="investigacion_desarrollo" anio="2021" monto="2301730" moneda="USD" beneficiarios="21542" descripcion="Subsidio para investigacion desarrollo"/>
+    <regulacion tipo="bienestar_animal" vigente="true" anio_implementacion="2019"/>
+    <regulacion tipo="pesticidas_neonicotinoides" vigente="true" anio_implementacion="2018"/>
+    <acuerdo_internacional nombre="Convenio_Biodiversidad" firmado="false"/>
+    <acuerdo_internacional nombre="Acuerdo_Mercosur" firmado="true" anio_firma="2004"/>
+  </pais>
+  <pais codigo="CHN" nombre="China">
+    <subsidio tipo="seguro_agricola" anio="2020" monto="48775311" moneda="USD" beneficiarios="10377" descripcion="Subsidio para seguro agricola"/>
+    <subsidio tipo="bioenergia" anio="2018" monto="32792618" moneda="USD" beneficiarios="17160" descripcion="Subsidio para bioenergia"/>
+    <subsidio tipo="seguro_agricola" anio="2023" monto="1204898" moneda="USD" beneficiarios="22444" descripcion="Subsidio para seguro agricola"/>
+    <regulacion tipo="uso_agua" vigente="true" anio_implementacion="2014"/>
+    <regulacion tipo="pesticidas_neonicotinoides" vigente="false" anio_implementacion="2015"/>
+    <regulacion tipo="emisiones_ganaderas" vigente="true" anio_implementacion="2020"/>
+    <acuerdo_internacional nombre="Acuerdo_Mercosur" firmado="true" anio_firma="1999"/>
+  </pais>
+  <pais codigo="FRA" nombre="Francia">
+    <subsidio tipo="fertilizantes" anio="2023" monto="14082408" moneda="EUR" beneficiarios="35308" descripcion="Subsidio para fertilizantes"/>
+    <subsidio tipo="agricultura_organica" anio="2020" monto="17658196" moneda="EUR" beneficiarios="25642" descripcion="Subsidio para agricultura organica"/>
+    <subsidio tipo="expansion_frontera_agricola" anio="2023" monto="1732427" moneda="EUR" beneficiarios="20541" descripcion="Subsidio para expansion frontera agricola"/>
+    <subsidio tipo="conservacion_suelos" anio="2019" monto="10667676" moneda="EUR" beneficiarios="20405" descripcion="Subsidio para conservacion suelos"/>
+    <regulacion tipo="rotacion_cultivos" vigente="false" anio_implementacion="2011" multa_incumplimiento="7039"/>
+    <regulacion tipo="uso_agua" vigente="true" anio_implementacion="2017"/>
+    <acuerdo_internacional nombre="Convenio_Biodiversidad" firmado="false"/>
+    <acuerdo_internacional nombre="Acuerdo_Mercosur" firmado="false"/>
+    <acuerdo_internacional nombre="ODS_2030" firmado="true" anio_firma="2019" metas_agricolas_sostenibles="5"/>
+  </pais>
+  <pais codigo="DEU" nombre="Alemania">
+    <subsidio tipo="conservacion_suelos" anio="2019" monto="48398771" moneda="EUR" beneficiarios="40750" descripcion="Subsidio para conservacion suelos"/>
+    <subsidio tipo="credito_rural" anio="2020" monto="11932107" moneda="EUR" beneficiarios="39435" descripcion="Subsidio para credito rural"/>
+    <subsidio tipo="maquinaria" anio="2020" monto="2137912" moneda="EUR" beneficiarios="9120" descripcion="Subsidio para maquinaria"/>
+    <regulacion tipo="pesticidas_neonicotinoides" vigente="false" anio_implementacion="2015"/>
+    <regulacion tipo="deforestacion" vigente="false" anio_implementacion="2016" multa_hectarea="708"/>
+    <acuerdo_internacional nombre="Convenio_Biodiversidad" firmado="true" anio_firma="2000"/>
+    <acuerdo_internacional nombre="Protocolo_Kyoto" firmado="true" anio_firma="2010"/>
+    <acuerdo_internacional nombre="TLCAN" firmado="false"/>
+  </pais>
+  <pais codigo="AUS" nombre="Australia">
+    <subsidio tipo="investigacion_desarrollo" anio="2022" monto="3642845" moneda="USD" beneficiarios="34535" descripcion="Subsidio para investigacion desarrollo"/>
+    <subsidio tipo="fertilizantes" anio="2023" monto="49135190" moneda="USD" beneficiarios="47770" descripcion="Subsidio para fertilizantes"/>
+    <subsidio tipo="maquinaria" anio="2021" monto="5286773" moneda="USD" beneficiarios="5449" descripcion="Subsidio para maquinaria"/>
+    <regulacion tipo="deforestacion" vigente="true" anio_implementacion="2018" multa_hectarea="1838"/>
+    <regulacion tipo="reservas_legales" vigente="true" anio_implementacion="2015" porcentaje_minimo="42"/>
+    <acuerdo_internacional nombre="Acuerdo_Paris" firmado="false"/>
+    <acuerdo_internacional nombre="Convenio_Biodiversidad" firmado="true" anio_firma="2005"/>
+  </pais>
+  <pais codigo="MEX" nombre="México">
+    <subsidio tipo="agricultura_organica" anio="2018" monto="36210634" moneda="USD" beneficiarios="28286" descripcion="Subsidio para agricultura organica"/>
+    <subsidio tipo="expansion_frontera_agricola" anio="2023" monto="11400800" moneda="USD" beneficiarios="36920" descripcion="Subsidio para expansion frontera agricola"/>
+    <subsidio tipo="riego" anio="2019" monto="31098201" moneda="USD" beneficiarios="11424" descripcion="Subsidio para riego"/>
+    <regulacion tipo="etanol_mezcla" vigente="true" anio_implementacion="2013"/>
+    <regulacion tipo="rotacion_cultivos" vigente="true" anio_implementacion="2010" multa_incumplimiento="4694"/>
+    <acuerdo_internacional nombre="Acuerdo_Paris" firmado="true" anio_firma="2014" objetivo_reduccion_emisiones="24"/>
+    <acuerdo_internacional nombre="TLCAN" firmado="true" anio_firma="2020"/>
+  </pais>
+  <pais codigo="KEN" nombre="Kenia">
+    <subsidio tipo="agricultura_organica" anio="2020" monto="22672824" moneda="USD" beneficiarios="26396" descripcion="Subsidio para agricultura organica"/>
+    <subsidio tipo="expansion_frontera_agricola" anio="2018" monto="35242092" moneda="USD" beneficiarios="19981" descripcion="Subsidio para expansion frontera agricola"/>
+    <regulacion tipo="rotacion_cultivos" vigente="false" anio_implementacion="2018" multa_incumplimiento="2113"/>
+    <regulacion tipo="rotacion_cultivos" vigente="true" anio_implementacion="2019" multa_incumplimiento="1589"/>
+    <regulacion tipo="reservas_legales" vigente="true" anio_implementacion="2019" porcentaje_minimo="51"/>
+    <acuerdo_internacional nombre="Protocolo_Kyoto" firmado="true" anio_firma="2008"/>
+  </pais>
+  <pais codigo="NZL" nombre="Nueva Zelanda">
+    <subsidio tipo="agricultura_organica" anio="2019" monto="27654398" moneda="USD" beneficiarios="14944" descripcion="Subsidio para agricultura organica"/>
+    <subsidio tipo="maquinaria" anio="2022" monto="1493246" moneda="USD" beneficiarios="42135" descripcion="Subsidio para maquinaria"/>
+    <subsidio tipo="investigacion_desarrollo" anio="2020" monto="18827249" moneda="USD" beneficiarios="37455" descripcion="Subsidio para investigacion desarrollo"/>
+    <regulacion tipo="emisiones_ganaderas" vigente="false" anio_implementacion="2012"/>
+    <regulacion tipo="reservas_legales" vigente="false" anio_implementacion="2015" porcentaje_minimo="32"/>
+    <regulacion tipo="pesticidas_neonicotinoides" vigente="false" anio_implementacion="2016"/>
+    <acuerdo_internacional nombre="TLCAN" firmado="false"/>
+  </pais>
+  <pais codigo="ESP" nombre="España">
+    <subsidio tipo="fertilizantes" anio="2021" monto="41491331" moneda="EUR" beneficiarios="43690" descripcion="Subsidio para fertilizantes"/>
+    <subsidio tipo="agricultura_organica" anio="2021" monto="14729806" moneda="EUR" beneficiarios="13113" descripcion="Subsidio para agricultura organica"/>
+    <subsidio tipo="riego" anio="2018" monto="27001467" moneda="EUR" beneficiarios="7994" descripcion="Subsidio para riego"/>
+    <regulacion tipo="reservas_legales" vigente="false" anio_implementacion="2020" porcentaje_minimo="33"/>
+    <regulacion tipo="etanol_mezcla" vigente="false" anio_implementacion="2017"/>
+    <acuerdo_internacional nombre="TLCAN" firmado="true" anio_firma="2008"/>
+  </pais>
+</politicas>

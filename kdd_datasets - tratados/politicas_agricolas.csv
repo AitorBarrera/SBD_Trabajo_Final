@@ -1,0 +1,160 @@
+﻿acuerdo_internacional.Attribute:firmado,acuerdo_internacional.Attribute:nombre,Attribute:codigo,Attribute:nombre,regulacion.Attribute:anio_implementacion,regulacion.Attribute:tipo,regulacion.Attribute:vigente,subsidio.Attribute:anio,subsidio.Attribute:beneficiarios,subsidio.Attribute:descripcion,subsidio.Attribute:moneda,subsidio.Attribute:monto,subsidio.Attribute:tipo
+true,Acuerdo_Mercosur,CHN,China,2014,uso_agua,true,2018,17160,Subsidio para bioenergia,USD,32792618,bioenergia
+true,Acuerdo_Mercosur,CHN,China,2015,pesticidas_neonicotinoides,false,2018,17160,Subsidio para bioenergia,USD,32792618,bioenergia
+true,Acuerdo_Mercosur,CHN,China,2020,emisiones_ganaderas,true,2018,17160,Subsidio para bioenergia,USD,32792618,bioenergia
+true,Acuerdo_Paris,MEX,México,2010,rotacion_cultivos,true,2018,28286,Subsidio para agricultura organica,USD,36210634,agricultura_organica
+true,Acuerdo_Paris,MEX,México,2013,etanol_mezcla,true,2018,28286,Subsidio para agricultura organica,USD,36210634,agricultura_organica
+true,Protocolo_Kyoto,KEN,Kenia,2018,rotacion_cultivos,false,2018,19981,Subsidio para expansion frontera agricola,USD,35242092,expansion_frontera_agricola
+true,Protocolo_Kyoto,KEN,Kenia,2019,reservas_legales,true,2018,19981,Subsidio para expansion frontera agricola,USD,35242092,expansion_frontera_agricola
+true,Protocolo_Kyoto,KEN,Kenia,2019,rotacion_cultivos,true,2018,19981,Subsidio para expansion frontera agricola,USD,35242092,expansion_frontera_agricola
+true,TLCAN,ESP,España,2017,etanol_mezcla,false,2018,7994,Subsidio para riego,EUR,27001467,riego
+true,TLCAN,ESP,España,2020,reservas_legales,false,2018,7994,Subsidio para riego,EUR,27001467,riego
+true,TLCAN,MEX,México,2010,rotacion_cultivos,true,2018,28286,Subsidio para agricultura organica,USD,36210634,agricultura_organica
+true,TLCAN,MEX,México,2013,etanol_mezcla,true,2018,28286,Subsidio para agricultura organica,USD,36210634,agricultura_organica
+false,Acuerdo_Mercosur,FRA,Francia,2011,rotacion_cultivos,false,2019,20405,Subsidio para conservacion suelos,EUR,10667676,conservacion_suelos
+false,Acuerdo_Mercosur,FRA,Francia,2017,uso_agua,true,2019,20405,Subsidio para conservacion suelos,EUR,10667676,conservacion_suelos
+false,Convenio_Biodiversidad,ARG,Argentina,2010,pesticidas_neonicotinoides,true,2019,7215,Subsidio para investigacion desarrollo,USD,15562206,investigacion_desarrollo
+false,Convenio_Biodiversidad,ARG,Argentina,2012,uso_agua,false,2019,7215,Subsidio para investigacion desarrollo,USD,15562206,investigacion_desarrollo
+false,Convenio_Biodiversidad,ARG,Argentina,2013,etanol_mezcla,false,2019,7215,Subsidio para investigacion desarrollo,USD,15562206,investigacion_desarrollo
+false,Convenio_Biodiversidad,BRA,Brasil,2015,etanol_mezcla,true,2019,44633,Subsidio para expansion frontera agricola,USD,33704977,expansion_frontera_agricola
+false,Convenio_Biodiversidad,BRA,Brasil,2017,reservas_legales,false,2019,44633,Subsidio para expansion frontera agricola,USD,33704977,expansion_frontera_agricola
+false,Convenio_Biodiversidad,BRA,Brasil,2018,deforestacion,true,2019,44633,Subsidio para expansion frontera agricola,USD,33704977,expansion_frontera_agricola
+false,Convenio_Biodiversidad,FRA,Francia,2011,rotacion_cultivos,false,2019,20405,Subsidio para conservacion suelos,EUR,10667676,conservacion_suelos
+false,Convenio_Biodiversidad,FRA,Francia,2017,uso_agua,true,2019,20405,Subsidio para conservacion suelos,EUR,10667676,conservacion_suelos
+false,Convenio_Biodiversidad,IND,India,2018,pesticidas_neonicotinoides,true,2019,33020,Subsidio para investigacion desarrollo,USD,17716755,investigacion_desarrollo
+false,Convenio_Biodiversidad,IND,India,2018,pesticidas_neonicotinoides,true,2019,39852,Subsidio para investigacion desarrollo,USD,48520114,investigacion_desarrollo
+false,Convenio_Biodiversidad,IND,India,2019,bienestar_animal,true,2019,33020,Subsidio para investigacion desarrollo,USD,17716755,investigacion_desarrollo
+false,Convenio_Biodiversidad,IND,India,2019,bienestar_animal,true,2019,39852,Subsidio para investigacion desarrollo,USD,48520114,investigacion_desarrollo
+false,TLCAN,DEU,Alemania,2015,pesticidas_neonicotinoides,false,2019,40750,Subsidio para conservacion suelos,EUR,48398771,conservacion_suelos
+false,TLCAN,DEU,Alemania,2016,deforestacion,false,2019,40750,Subsidio para conservacion suelos,EUR,48398771,conservacion_suelos
+false,TLCAN,NZL,Nueva Zelanda,2012,emisiones_ganaderas,false,2019,14944,Subsidio para agricultura organica,USD,27654398,agricultura_organica
+false,TLCAN,NZL,Nueva Zelanda,2015,reservas_legales,false,2019,14944,Subsidio para agricultura organica,USD,27654398,agricultura_organica
+false,TLCAN,NZL,Nueva Zelanda,2016,pesticidas_neonicotinoides,false,2019,14944,Subsidio para agricultura organica,USD,27654398,agricultura_organica
+true,Acuerdo_Mercosur,BRA,Brasil,2015,etanol_mezcla,true,2019,44633,Subsidio para expansion frontera agricola,USD,33704977,expansion_frontera_agricola
+true,Acuerdo_Mercosur,BRA,Brasil,2017,reservas_legales,false,2019,44633,Subsidio para expansion frontera agricola,USD,33704977,expansion_frontera_agricola
+true,Acuerdo_Mercosur,BRA,Brasil,2018,deforestacion,true,2019,44633,Subsidio para expansion frontera agricola,USD,33704977,expansion_frontera_agricola
+true,Acuerdo_Mercosur,IND,India,2018,pesticidas_neonicotinoides,true,2019,33020,Subsidio para investigacion desarrollo,USD,17716755,investigacion_desarrollo
+true,Acuerdo_Mercosur,IND,India,2018,pesticidas_neonicotinoides,true,2019,39852,Subsidio para investigacion desarrollo,USD,48520114,investigacion_desarrollo
+true,Acuerdo_Mercosur,IND,India,2019,bienestar_animal,true,2019,33020,Subsidio para investigacion desarrollo,USD,17716755,investigacion_desarrollo
+true,Acuerdo_Mercosur,IND,India,2019,bienestar_animal,true,2019,39852,Subsidio para investigacion desarrollo,USD,48520114,investigacion_desarrollo
+true,Acuerdo_Paris,MEX,México,2010,rotacion_cultivos,true,2019,11424,Subsidio para riego,USD,31098201,riego
+true,Acuerdo_Paris,MEX,México,2013,etanol_mezcla,true,2019,11424,Subsidio para riego,USD,31098201,riego
+true,Convenio_Biodiversidad,DEU,Alemania,2015,pesticidas_neonicotinoides,false,2019,40750,Subsidio para conservacion suelos,EUR,48398771,conservacion_suelos
+true,Convenio_Biodiversidad,DEU,Alemania,2016,deforestacion,false,2019,40750,Subsidio para conservacion suelos,EUR,48398771,conservacion_suelos
+true,ODS_2030,FRA,Francia,2011,rotacion_cultivos,false,2019,20405,Subsidio para conservacion suelos,EUR,10667676,conservacion_suelos
+true,ODS_2030,FRA,Francia,2017,uso_agua,true,2019,20405,Subsidio para conservacion suelos,EUR,10667676,conservacion_suelos
+true,Protocolo_Kyoto,BRA,Brasil,2015,etanol_mezcla,true,2019,44633,Subsidio para expansion frontera agricola,USD,33704977,expansion_frontera_agricola
+true,Protocolo_Kyoto,BRA,Brasil,2017,reservas_legales,false,2019,44633,Subsidio para expansion frontera agricola,USD,33704977,expansion_frontera_agricola
+true,Protocolo_Kyoto,BRA,Brasil,2018,deforestacion,true,2019,44633,Subsidio para expansion frontera agricola,USD,33704977,expansion_frontera_agricola
+true,Protocolo_Kyoto,DEU,Alemania,2015,pesticidas_neonicotinoides,false,2019,40750,Subsidio para conservacion suelos,EUR,48398771,conservacion_suelos
+true,Protocolo_Kyoto,DEU,Alemania,2016,deforestacion,false,2019,40750,Subsidio para conservacion suelos,EUR,48398771,conservacion_suelos
+true,TLCAN,MEX,México,2010,rotacion_cultivos,true,2019,11424,Subsidio para riego,USD,31098201,riego
+true,TLCAN,MEX,México,2013,etanol_mezcla,true,2019,11424,Subsidio para riego,USD,31098201,riego
+false,Acuerdo_Mercosur,FRA,Francia,2011,rotacion_cultivos,false,2020,25642,Subsidio para agricultura organica,EUR,17658196,agricultura_organica
+false,Acuerdo_Mercosur,FRA,Francia,2017,uso_agua,true,2020,25642,Subsidio para agricultura organica,EUR,17658196,agricultura_organica
+false,Convenio_Biodiversidad,BRA,Brasil,2015,etanol_mezcla,true,2020,5384,Subsidio para fertilizantes,USD,8114311,fertilizantes
+false,Convenio_Biodiversidad,BRA,Brasil,2017,reservas_legales,false,2020,5384,Subsidio para fertilizantes,USD,8114311,fertilizantes
+false,Convenio_Biodiversidad,BRA,Brasil,2018,deforestacion,true,2020,5384,Subsidio para fertilizantes,USD,8114311,fertilizantes
+false,Convenio_Biodiversidad,FRA,Francia,2011,rotacion_cultivos,false,2020,25642,Subsidio para agricultura organica,EUR,17658196,agricultura_organica
+false,Convenio_Biodiversidad,FRA,Francia,2017,uso_agua,true,2020,25642,Subsidio para agricultura organica,EUR,17658196,agricultura_organica
+false,TLCAN,DEU,Alemania,2015,pesticidas_neonicotinoides,false,2020,39435,Subsidio para credito rural,EUR,11932107,credito_rural
+false,TLCAN,DEU,Alemania,2015,pesticidas_neonicotinoides,false,2020,9120,Subsidio para maquinaria,EUR,2137912,maquinaria
+false,TLCAN,DEU,Alemania,2016,deforestacion,false,2020,39435,Subsidio para credito rural,EUR,11932107,credito_rural
+false,TLCAN,DEU,Alemania,2016,deforestacion,false,2020,9120,Subsidio para maquinaria,EUR,2137912,maquinaria
+false,TLCAN,NZL,Nueva Zelanda,2012,emisiones_ganaderas,false,2020,37455,Subsidio para investigacion desarrollo,USD,18827249,investigacion_desarrollo
+false,TLCAN,NZL,Nueva Zelanda,2015,reservas_legales,false,2020,37455,Subsidio para investigacion desarrollo,USD,18827249,investigacion_desarrollo
+false,TLCAN,NZL,Nueva Zelanda,2016,pesticidas_neonicotinoides,false,2020,37455,Subsidio para investigacion desarrollo,USD,18827249,investigacion_desarrollo
+true,Acuerdo_Mercosur,BRA,Brasil,2015,etanol_mezcla,true,2020,5384,Subsidio para fertilizantes,USD,8114311,fertilizantes
+true,Acuerdo_Mercosur,BRA,Brasil,2017,reservas_legales,false,2020,5384,Subsidio para fertilizantes,USD,8114311,fertilizantes
+true,Acuerdo_Mercosur,BRA,Brasil,2018,deforestacion,true,2020,5384,Subsidio para fertilizantes,USD,8114311,fertilizantes
+true,Acuerdo_Mercosur,CHN,China,2014,uso_agua,true,2020,10377,Subsidio para seguro agricola,USD,48775311,seguro_agricola
+true,Acuerdo_Mercosur,CHN,China,2015,pesticidas_neonicotinoides,false,2020,10377,Subsidio para seguro agricola,USD,48775311,seguro_agricola
+true,Acuerdo_Mercosur,CHN,China,2020,emisiones_ganaderas,true,2020,10377,Subsidio para seguro agricola,USD,48775311,seguro_agricola
+true,Acuerdo_Mercosur,USA,Estados Unidos,2015,pesticidas_neonicotinoides,true,2020,17129,Subsidio para credito rural,USD,28984435,credito_rural
+true,Acuerdo_Mercosur,USA,Estados Unidos,2018,uso_agua,false,2020,17129,Subsidio para credito rural,USD,28984435,credito_rural
+true,Convenio_Biodiversidad,DEU,Alemania,2015,pesticidas_neonicotinoides,false,2020,39435,Subsidio para credito rural,EUR,11932107,credito_rural
+true,Convenio_Biodiversidad,DEU,Alemania,2015,pesticidas_neonicotinoides,false,2020,9120,Subsidio para maquinaria,EUR,2137912,maquinaria
+true,Convenio_Biodiversidad,DEU,Alemania,2016,deforestacion,false,2020,39435,Subsidio para credito rural,EUR,11932107,credito_rural
+true,Convenio_Biodiversidad,DEU,Alemania,2016,deforestacion,false,2020,9120,Subsidio para maquinaria,EUR,2137912,maquinaria
+true,ODS_2030,FRA,Francia,2011,rotacion_cultivos,false,2020,25642,Subsidio para agricultura organica,EUR,17658196,agricultura_organica
+true,ODS_2030,FRA,Francia,2017,uso_agua,true,2020,25642,Subsidio para agricultura organica,EUR,17658196,agricultura_organica
+true,Protocolo_Kyoto,BRA,Brasil,2015,etanol_mezcla,true,2020,5384,Subsidio para fertilizantes,USD,8114311,fertilizantes
+true,Protocolo_Kyoto,BRA,Brasil,2017,reservas_legales,false,2020,5384,Subsidio para fertilizantes,USD,8114311,fertilizantes
+true,Protocolo_Kyoto,BRA,Brasil,2018,deforestacion,true,2020,5384,Subsidio para fertilizantes,USD,8114311,fertilizantes
+true,Protocolo_Kyoto,DEU,Alemania,2015,pesticidas_neonicotinoides,false,2020,39435,Subsidio para credito rural,EUR,11932107,credito_rural
+true,Protocolo_Kyoto,DEU,Alemania,2015,pesticidas_neonicotinoides,false,2020,9120,Subsidio para maquinaria,EUR,2137912,maquinaria
+true,Protocolo_Kyoto,DEU,Alemania,2016,deforestacion,false,2020,39435,Subsidio para credito rural,EUR,11932107,credito_rural
+true,Protocolo_Kyoto,DEU,Alemania,2016,deforestacion,false,2020,9120,Subsidio para maquinaria,EUR,2137912,maquinaria
+true,Protocolo_Kyoto,KEN,Kenia,2018,rotacion_cultivos,false,2020,26396,Subsidio para agricultura organica,USD,22672824,agricultura_organica
+true,Protocolo_Kyoto,KEN,Kenia,2019,reservas_legales,true,2020,26396,Subsidio para agricultura organica,USD,22672824,agricultura_organica
+true,Protocolo_Kyoto,KEN,Kenia,2019,rotacion_cultivos,true,2020,26396,Subsidio para agricultura organica,USD,22672824,agricultura_organica
+true,Protocolo_Kyoto,USA,Estados Unidos,2015,pesticidas_neonicotinoides,true,2020,17129,Subsidio para credito rural,USD,28984435,credito_rural
+true,Protocolo_Kyoto,USA,Estados Unidos,2018,uso_agua,false,2020,17129,Subsidio para credito rural,USD,28984435,credito_rural
+false,Acuerdo_Paris,AUS,Australia,2015,reservas_legales,true,2021,5449,Subsidio para maquinaria,USD,5286773,maquinaria
+false,Acuerdo_Paris,AUS,Australia,2018,deforestacion,true,2021,5449,Subsidio para maquinaria,USD,5286773,maquinaria
+false,Convenio_Biodiversidad,ARG,Argentina,2010,pesticidas_neonicotinoides,true,2021,10823,Subsidio para fertilizantes,USD,32694726,fertilizantes
+false,Convenio_Biodiversidad,ARG,Argentina,2010,pesticidas_neonicotinoides,true,2021,1914,Subsidio para maquinaria,USD,25542386,maquinaria
+false,Convenio_Biodiversidad,ARG,Argentina,2012,uso_agua,false,2021,10823,Subsidio para fertilizantes,USD,32694726,fertilizantes
+false,Convenio_Biodiversidad,ARG,Argentina,2012,uso_agua,false,2021,1914,Subsidio para maquinaria,USD,25542386,maquinaria
+false,Convenio_Biodiversidad,ARG,Argentina,2013,etanol_mezcla,false,2021,10823,Subsidio para fertilizantes,USD,32694726,fertilizantes
+false,Convenio_Biodiversidad,ARG,Argentina,2013,etanol_mezcla,false,2021,1914,Subsidio para maquinaria,USD,25542386,maquinaria
+false,Convenio_Biodiversidad,IND,India,2018,pesticidas_neonicotinoides,true,2021,21542,Subsidio para investigacion desarrollo,USD,2301730,investigacion_desarrollo
+false,Convenio_Biodiversidad,IND,India,2019,bienestar_animal,true,2021,21542,Subsidio para investigacion desarrollo,USD,2301730,investigacion_desarrollo
+true,Acuerdo_Mercosur,IND,India,2018,pesticidas_neonicotinoides,true,2021,21542,Subsidio para investigacion desarrollo,USD,2301730,investigacion_desarrollo
+true,Acuerdo_Mercosur,IND,India,2019,bienestar_animal,true,2021,21542,Subsidio para investigacion desarrollo,USD,2301730,investigacion_desarrollo
+true,Acuerdo_Mercosur,USA,Estados Unidos,2015,pesticidas_neonicotinoides,true,2021,2160,Subsidio para investigacion desarrollo,USD,5236246,investigacion_desarrollo
+true,Acuerdo_Mercosur,USA,Estados Unidos,2018,uso_agua,false,2021,2160,Subsidio para investigacion desarrollo,USD,5236246,investigacion_desarrollo
+true,Convenio_Biodiversidad,AUS,Australia,2015,reservas_legales,true,2021,5449,Subsidio para maquinaria,USD,5286773,maquinaria
+true,Convenio_Biodiversidad,AUS,Australia,2018,deforestacion,true,2021,5449,Subsidio para maquinaria,USD,5286773,maquinaria
+true,Protocolo_Kyoto,USA,Estados Unidos,2015,pesticidas_neonicotinoides,true,2021,2160,Subsidio para investigacion desarrollo,USD,5236246,investigacion_desarrollo
+true,Protocolo_Kyoto,USA,Estados Unidos,2018,uso_agua,false,2021,2160,Subsidio para investigacion desarrollo,USD,5236246,investigacion_desarrollo
+true,TLCAN,ESP,España,2017,etanol_mezcla,false,2021,13113,Subsidio para agricultura organica,EUR,14729806,agricultura_organica
+true,TLCAN,ESP,España,2017,etanol_mezcla,false,2021,43690,Subsidio para fertilizantes,EUR,41491331,fertilizantes
+true,TLCAN,ESP,España,2020,reservas_legales,false,2021,13113,Subsidio para agricultura organica,EUR,14729806,agricultura_organica
+true,TLCAN,ESP,España,2020,reservas_legales,false,2021,43690,Subsidio para fertilizantes,EUR,41491331,fertilizantes
+false,Acuerdo_Paris,AUS,Australia,2015,reservas_legales,true,2022,34535,Subsidio para investigacion desarrollo,USD,3642845,investigacion_desarrollo
+false,Acuerdo_Paris,AUS,Australia,2018,deforestacion,true,2022,34535,Subsidio para investigacion desarrollo,USD,3642845,investigacion_desarrollo
+false,TLCAN,NZL,Nueva Zelanda,2012,emisiones_ganaderas,false,2022,42135,Subsidio para maquinaria,USD,1493246,maquinaria
+false,TLCAN,NZL,Nueva Zelanda,2015,reservas_legales,false,2022,42135,Subsidio para maquinaria,USD,1493246,maquinaria
+false,TLCAN,NZL,Nueva Zelanda,2016,pesticidas_neonicotinoides,false,2022,42135,Subsidio para maquinaria,USD,1493246,maquinaria
+true,Convenio_Biodiversidad,AUS,Australia,2015,reservas_legales,true,2022,34535,Subsidio para investigacion desarrollo,USD,3642845,investigacion_desarrollo
+true,Convenio_Biodiversidad,AUS,Australia,2018,deforestacion,true,2022,34535,Subsidio para investigacion desarrollo,USD,3642845,investigacion_desarrollo
+false,Acuerdo_Mercosur,FRA,Francia,2011,rotacion_cultivos,false,2023,20541,Subsidio para expansion frontera agricola,EUR,1732427,expansion_frontera_agricola
+false,Acuerdo_Mercosur,FRA,Francia,2011,rotacion_cultivos,false,2023,35308,Subsidio para fertilizantes,EUR,14082408,fertilizantes
+false,Acuerdo_Mercosur,FRA,Francia,2017,uso_agua,true,2023,20541,Subsidio para expansion frontera agricola,EUR,1732427,expansion_frontera_agricola
+false,Acuerdo_Mercosur,FRA,Francia,2017,uso_agua,true,2023,35308,Subsidio para fertilizantes,EUR,14082408,fertilizantes
+false,Acuerdo_Paris,AUS,Australia,2015,reservas_legales,true,2023,47770,Subsidio para fertilizantes,USD,49135190,fertilizantes
+false,Acuerdo_Paris,AUS,Australia,2018,deforestacion,true,2023,47770,Subsidio para fertilizantes,USD,49135190,fertilizantes
+false,Convenio_Biodiversidad,ARG,Argentina,2010,pesticidas_neonicotinoides,true,2023,10898,Subsidio para expansion frontera agricola,USD,12595066,expansion_frontera_agricola
+false,Convenio_Biodiversidad,ARG,Argentina,2012,uso_agua,false,2023,10898,Subsidio para expansion frontera agricola,USD,12595066,expansion_frontera_agricola
+false,Convenio_Biodiversidad,ARG,Argentina,2013,etanol_mezcla,false,2023,10898,Subsidio para expansion frontera agricola,USD,12595066,expansion_frontera_agricola
+false,Convenio_Biodiversidad,BRA,Brasil,2015,etanol_mezcla,true,2023,40833,Subsidio para bioenergia,USD,32990812,bioenergia
+false,Convenio_Biodiversidad,BRA,Brasil,2017,reservas_legales,false,2023,40833,Subsidio para bioenergia,USD,32990812,bioenergia
+false,Convenio_Biodiversidad,BRA,Brasil,2018,deforestacion,true,2023,40833,Subsidio para bioenergia,USD,32990812,bioenergia
+false,Convenio_Biodiversidad,FRA,Francia,2011,rotacion_cultivos,false,2023,20541,Subsidio para expansion frontera agricola,EUR,1732427,expansion_frontera_agricola
+false,Convenio_Biodiversidad,FRA,Francia,2011,rotacion_cultivos,false,2023,35308,Subsidio para fertilizantes,EUR,14082408,fertilizantes
+false,Convenio_Biodiversidad,FRA,Francia,2017,uso_agua,true,2023,20541,Subsidio para expansion frontera agricola,EUR,1732427,expansion_frontera_agricola
+false,Convenio_Biodiversidad,FRA,Francia,2017,uso_agua,true,2023,35308,Subsidio para fertilizantes,EUR,14082408,fertilizantes
+true,Acuerdo_Mercosur,BRA,Brasil,2015,etanol_mezcla,true,2023,40833,Subsidio para bioenergia,USD,32990812,bioenergia
+true,Acuerdo_Mercosur,BRA,Brasil,2017,reservas_legales,false,2023,40833,Subsidio para bioenergia,USD,32990812,bioenergia
+true,Acuerdo_Mercosur,BRA,Brasil,2018,deforestacion,true,2023,40833,Subsidio para bioenergia,USD,32990812,bioenergia
+true,Acuerdo_Mercosur,CHN,China,2014,uso_agua,true,2023,22444,Subsidio para seguro agricola,USD,1204898,seguro_agricola
+true,Acuerdo_Mercosur,CHN,China,2015,pesticidas_neonicotinoides,false,2023,22444,Subsidio para seguro agricola,USD,1204898,seguro_agricola
+true,Acuerdo_Mercosur,CHN,China,2020,emisiones_ganaderas,true,2023,22444,Subsidio para seguro agricola,USD,1204898,seguro_agricola
+true,Acuerdo_Mercosur,USA,Estados Unidos,2015,pesticidas_neonicotinoides,true,2023,25219,Subsidio para bioenergia,USD,9598894,bioenergia
+true,Acuerdo_Mercosur,USA,Estados Unidos,2018,uso_agua,false,2023,25219,Subsidio para bioenergia,USD,9598894,bioenergia
+true,Acuerdo_Paris,MEX,México,2010,rotacion_cultivos,true,2023,36920,Subsidio para expansion frontera agricola,USD,11400800,expansion_frontera_agricola
+true,Acuerdo_Paris,MEX,México,2013,etanol_mezcla,true,2023,36920,Subsidio para expansion frontera agricola,USD,11400800,expansion_frontera_agricola
+true,Convenio_Biodiversidad,AUS,Australia,2015,reservas_legales,true,2023,47770,Subsidio para fertilizantes,USD,49135190,fertilizantes
+true,Convenio_Biodiversidad,AUS,Australia,2018,deforestacion,true,2023,47770,Subsidio para fertilizantes,USD,49135190,fertilizantes
+true,ODS_2030,FRA,Francia,2011,rotacion_cultivos,false,2023,20541,Subsidio para expansion frontera agricola,EUR,1732427,expansion_frontera_agricola
+true,ODS_2030,FRA,Francia,2011,rotacion_cultivos,false,2023,35308,Subsidio para fertilizantes,EUR,14082408,fertilizantes
+true,ODS_2030,FRA,Francia,2017,uso_agua,true,2023,20541,Subsidio para expansion frontera agricola,EUR,1732427,expansion_frontera_agricola
+true,ODS_2030,FRA,Francia,2017,uso_agua,true,2023,35308,Subsidio para fertilizantes,EUR,14082408,fertilizantes
+true,Protocolo_Kyoto,BRA,Brasil,2015,etanol_mezcla,true,2023,40833,Subsidio para bioenergia,USD,32990812,bioenergia
+true,Protocolo_Kyoto,BRA,Brasil,2017,reservas_legales,false,2023,40833,Subsidio para bioenergia,USD,32990812,bioenergia
+true,Protocolo_Kyoto,BRA,Brasil,2018,deforestacion,true,2023,40833,Subsidio para bioenergia,USD,32990812,bioenergia
+true,Protocolo_Kyoto,USA,Estados Unidos,2015,pesticidas_neonicotinoides,true,2023,25219,Subsidio para bioenergia,USD,9598894,bioenergia
+true,Protocolo_Kyoto,USA,Estados Unidos,2018,uso_agua,false,2023,25219,Subsidio para bioenergia,USD,9598894,bioenergia
+true,TLCAN,MEX,México,2010,rotacion_cultivos,true,2023,36920,Subsidio para expansion frontera agricola,USD,11400800,expansion_frontera_agricola
+true,TLCAN,MEX,México,2013,etanol_mezcla,true,2023,36920,Subsidio para expansion frontera agricola,USD,11400800,expansion_frontera_agricola
